@@ -1,0 +1,24 @@
+tme:
+  name: "TME.eu - Transfer Multisort Elektronik Sp. z o.o. "
+  banner: "assets/images/sponsors/tme.jpg"
+  url: https://tme.eu/
+hrs:
+  name: "HamRadioShop.pl"
+  banner: assets/images/sponsors/hrs.jpg
+  url: https://hamradioshop.pl/
+burzenin:
+  name: "Gmina Burzenin"
+  banner: assets/images/sponsors/burzenin.jpg
+  url: https://www.ugburzenin.pl/
+rh:
+  name: "RadioHobby.pl"
+  banner: assets/images/sponsors/rh.jpg
+  url: https://radiohobby.pl/
+rflabo:
+  name: "RFLabo"
+  banner: assets/images/sponsors/rflabo.jpg
+  url: http://www.rflabo.com/
+codis:
+  name: "Codis"
+  banner: assets/images/sponsors/codis.jpg
+  url: https://codis.pl/

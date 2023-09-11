@@ -1,0 +1,32 @@
+Wiktor Przybylski:
+  name        : "Wiktor Przybylski"
+  bio         : "Ten duży, z głupimi pomysłami"
+  avatar      : "/assets/images/people/wiktor.jpg"
+  callsign    : SQ9WTF
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:wiktor@hackerspace-krk.pl"
+
+canis_lupus:
+  name        : "canis_lupus"
+  bio         : "Unlis i ukrywający coś, wstydzący się swojego znaku, człowiek z ulicy, losowa osoba z internetu, element, ignorant i darmozjad, anonimowy pirat, konfident, donosiciel"
+  avatar      : "/assets/images/people/canis.jpg"
+  callsign    : SQ9ZAQ
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/rhymeswithsackit"
+
+Cezary Libert:
+  name        : "Cezary Libert"
+  callsign    : "SP7UKL"
+  bio         : "Mózg całego sklepu i systemu zamówień, a także bardzo miły człowiek"
+
+Maciek Bal:
+  name        : "Maciek Bal"
+  callsign    : "SP9MRN"
+  bio         : "Wieloletni organizator Zjazdu, człowiek o niebagatelnej wiedzy operacyjnej i anielskiej cierpliwości do nawet najupierdliwszych krótkofalowców"

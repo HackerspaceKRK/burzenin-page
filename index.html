@@ -1,0 +1,55 @@
+---
+layout: splash
+<!-- author_profile: true -->
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/burzenin.png
+  actions:
+    - label: "<i class='fas fa-download'></i> Przejdź do rejestracji"
+      url: "https://zjazdtechniczny.krotkofalowcy.com.pl/sklep/"
+    - label: "<i class='fas fa-download'></i> Zobacz aktualności"
+      url: "/news"
+excerpt: >
+  Coroczny, ogólnopolski zjazd krótkofalowców pełen technicznej wiedzy
+feature_row:
+  - image_path: /assets/images/grupowe.jpg
+    alt: "customizable"
+    title: "Co powinniście wiedzieć"
+    excerpt: "Pierwszy raz na zjeździe, czy nie, zapoznaj się proszę z informacjami organizacyjnymi i rozwiej swoje wątpliwości"
+    url: "/najwazniejsze/"
+    btn_class: "btn--primary"
+    btn_label: "Czytaj więcej"
+  - image_path: /assets/images/warsztaty.jpg
+    alt: "fully responsive"
+    title: "Program zjazdu"
+    excerpt: "Czyli to, co co roku przypomina o tym, że jeszcze nie opanowaliśmy bilokacji"
+    url: "/"
+    btn_class: "btn--primary"
+    btn_label: "Czytaj więcej"
+  - image_path: /assets/images/burzenin.png
+    alt: "100% free"
+    title: "Gdzie to tak właściwie jest?"
+    excerpt: "Wśród podsieradzkich lasów, u ujścia Widawki do Warty... czyli co wklepać w GPS"
+    url: "/"
+    btn_class: "btn--primary"
+    btn_label: "Czytaj więcej"     
+     
+---
+{% include feature_row %}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>
+
+{% include paginator.html %}
