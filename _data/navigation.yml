@@ -3,9 +3,9 @@ main:
   - title: "Sklep"
     url: https://zjazdtechniczny.krotkofalowcy.com.pl/sklep/
   - title: "Program"
-    url: /
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+    url: /program
+  - title: "Aktualności"
+    url: /news
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
