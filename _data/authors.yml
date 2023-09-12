@@ -13,13 +13,6 @@ canis_lupus:
   bio         : "Unlis i ukrywający coś, wstydzący się swojego znaku, człowiek z ulicy, losowa osoba z internetu, element, ignorant i darmozjad, anonimowy pirat, konfident, donosiciel"
   avatar      : "/assets/images/people/canis.jpg"
   callsign    : SQ9ZAQ
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cornelius@thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/rhymeswithsackit"
 
 Cezary Libert:
   name        : "Cezary Libert"
