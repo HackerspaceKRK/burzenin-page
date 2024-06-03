@@ -5,13 +5,17 @@
   
   <h3>Autor:</h3><hr/>
   <div class="author__avatar">
-    <a href="{{ author.home | default: '/' | absolute_url }}">
+    {% if author.authorpage %}
+    <a href="{{ author.authorpage | default: '/' | absolute_url }}">
+    {% endif %}
       {% if author.avatar %}
       <img src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" itemprop="image" class="u-photo">
       {% else %}
       <img src="{{ 'assets/images/zjazd.png' | relative_url }}" alt="{{ author.name }} - zaślepka" itemprop="image" class="u-photo" style="opacity: 0.4;">
       {% endif %}
+    {% if author.authorpage %}
     </a>
+    {% endif %}
   </div>
 
   <div class="author__content">

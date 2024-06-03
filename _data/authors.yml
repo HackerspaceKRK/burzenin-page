@@ -19,6 +19,7 @@ sq9zaq:
   bio             : "Unlis i ukrywający coś, wstydzący się swojego znaku, człowiek z ulicy, losowa osoba z internetu, element, ignorant i darmozjad, anonimowy pirat, konfident, donosiciel"
   avatar          : "/assets/images/people/sq9zaq.jpg"
   callsign        : SQ9ZAQ
+  authorpage      : "/author/sq9zaq/"
   zjazd_orga      : yes
   constructor     : yes
   links:
@@ -42,6 +43,7 @@ sp9mrn:
   bio             : "Wieloletni organizator Zjazdu, człowiek o niebagatelnej wiedzy operacyjnej i anielskiej cierpliwości do nawet najupierdliwszych krótkofalowców"
   constructor_bio : "Potrafi zrobić radio z wykałaczki i gumki od majtek"
   avatar          : "/assets/images/people/sp9mrn.jpg"
+  authorpage      : "/author/sp9mrn/"
   zjazd_orga      : yes
   constructor     : yes
   links:
@@ -52,6 +54,7 @@ sp9mrn:
 sp2fp:
   name            : "Paweł"
   callsign        : "SP2FP"
+  authorpage      : "/author/sp2fp/"
   # avatar          : "/assets/images/people/sp2fp.jpg"
   zjazd_orga      : no
   constructor     : yes
@@ -63,6 +66,7 @@ sp2fp:
 sq7hjb:
   name            : "Marek"
   callsign        : "SQ7HJB"
+  authorpage      : "/author/sq7hjb/"
   # avatar          : "/assets/images/people/sq7hjb.jpg"
   constructor_bio : "Licencjonowany krótkofalowiec od 1998 roku, raczej konstruktor, niż DX-man. Lubi budować wszelkie układy elektroniczne, nie tylko radiowe."
   zjazd_orga      : no
