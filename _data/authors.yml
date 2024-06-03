@@ -1,25 +1,73 @@
-Wiktor Przybylski:
-  name        : "Wiktor Przybylski"
-  bio         : "Ten duży, z głupimi pomysłami"
-  avatar      : "/assets/images/people/wiktor.jpg"
-  callsign    : SQ9WTF
+sq9wtf:
+  name            : "Wiktor Przybylski"
+  bio             : "Ten duży, z głupimi pomysłami"
+  avatar          : "/assets/images/people/sq9wtf.jpg"
+  zjazd_orga      : yes
+  constructor     : no
+  callsign        : SQ9WTF
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:wiktor@hackerspace-krk.pl"
+    - label: "QRZ.com"
+      icon: "fas fa-fw fa-book"
+      url: "https://www.qrz.com/db/sq9wtf"
 
-canis_lupus:
-  name        : "canis_lupus"
-  bio         : "Unlis i ukrywający coś, wstydzący się swojego znaku, człowiek z ulicy, losowa osoba z internetu, element, ignorant i darmozjad, anonimowy pirat, konfident, donosiciel"
-  avatar      : "/assets/images/people/canis.jpg"
-  callsign    : SQ9ZAQ
+sq9zaq:
+  name            : "canis_lupus"
+  constructor_bio : "Maka paka"
+  bio             : "Unlis i ukrywający coś, wstydzący się swojego znaku, człowiek z ulicy, losowa osoba z internetu, element, ignorant i darmozjad, anonimowy pirat, konfident, donosiciel"
+  avatar          : "/assets/images/people/sq9zaq.jpg"
+  callsign        : SQ9ZAQ
+  zjazd_orga      : yes
+  constructor     : yes
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:szymon@hackerspace-krk.pl"
+    - label: "QRZ.com"
+      icon: "fas fa-fw fa-book"
+      url: "https://www.qrz.com/db/sq9zaq"
 
-Cezary Libert:
-  name        : "Cezary Libert"
-  callsign    : "SP7UKL"
-  bio         : "Mózg całego sklepu i systemu zamówień, a także bardzo miły człowiek"
+sp7ukl:
+  name            : "Cezary Libert"
+  callsign        : "SP7UKL"
+  bio             : "Mózg całego sklepu i systemu zamówień, a także bardzo miły człowiek"
+  zjazd_orga      : yes
+  constructor     : yes
 
-Maciek Bal:
-  name        : "Maciek Bal"
-  callsign    : "SP9MRN"
-  bio         : "Wieloletni organizator Zjazdu, człowiek o niebagatelnej wiedzy operacyjnej i anielskiej cierpliwości do nawet najupierdliwszych krótkofalowców"
+sp9mrn:
+  name            : "Maciek Bal"
+  callsign        : "SP9MRN"
+  bio             : "Wieloletni organizator Zjazdu, człowiek o niebagatelnej wiedzy operacyjnej i anielskiej cierpliwości do nawet najupierdliwszych krótkofalowców"
+  constructor_bio : "Potrafi zrobić radio z wykałaczki i gumki od majtek"
+  avatar          : "/assets/images/people/sp9mrn.jpg"
+  zjazd_orga      : yes
+  constructor     : yes
+  links:
+    - label: "QRZ.com"
+      icon: "fas fa-fw fa-book"
+      url: "https://www.qrz.com/db/sp9mrn"
+
+sp2fp:
+  name            : "Paweł"
+  callsign        : "SP2FP"
+  # avatar          : "/assets/images/people/sp2fp.jpg"
+  zjazd_orga      : no
+  constructor     : yes
+  links:
+    - label: "QRZ.com"
+      icon: "fas fa-fw fa-book"
+      url: "https://www.qrz.com/db/sp2fp"
+
+sq7hjb:
+  name            : "Marek"
+  callsign        : "SQ7HJB"
+  # avatar          : "/assets/images/people/sq7hjb.jpg"
+  constructor_bio : "Licencjonowany krótkofalowiec od 1998 roku, raczej konstruktor, niż DX-man. Lubi budować wszelkie układy elektroniczne, nie tylko radiowe."
+  zjazd_orga      : no
+  constructor     : yes
+  links:
+    - label: "QRZ.com"
+      icon: "fas fa-fw fa-book"
+      url: "https://www.qrz.com/db/sq7hjb"

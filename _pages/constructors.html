@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /staff
+permalink: /constructors
 ---
 
 <!-- {% for author in site.data.authors %}
@@ -13,12 +13,12 @@ permalink: /staff
 		</div>
 	{% endif %}
 {% endfor %} -->
-<h1>Sprawcy zamieszania</h1>
+<h1>Szanowni konstruktorzy</h1>
 
 <div class="feature__wrapper">
 
 	{% for f in site.data.authors %}
-		{% if f[1].zjazd_orga %}
+		{% if f[1].constructor %}
 	  <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
 		<div class="archive__item">
 		  {% if f[1].avatar %}
@@ -43,7 +43,12 @@ permalink: /staff
   
 			{% if f[1].bio %}
 			  <div class="archive__item-excerpt">
+				{% if f[1].constructor_bio %}
+				{{ f[1].constructor_bio | markdownify }}
+				{% else %}
 				{{ f[1].bio | markdownify }}
+				{% endif %}
+				
 			  </div>
 			{% endif %}
   

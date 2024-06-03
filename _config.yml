@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "pl-PL"
 title                    : "Zjazd Techniczny Krótkofalowców 2024"
 title_separator          : "-"
-subtitle                 : "Wrzesień 2024 - Burzenin"
+subtitle                 : "6-8 Września 2024 - Burzenin"
 name                     : "Zjazd Techniczny Krótkofalowców 2024"
 description              : "Zjazd Techniczny Krótkofalowców 2024 w Burzeninie"
 url                      : "https://burzenin.sq9.wtf"
@@ -141,6 +141,13 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
+collections:
+  puk:
+    output: true
+    permalink: /:collection/:path/
+  authors:
+    output: true
+    permalink: /author/:path/
 
 # Reading Files
 include:
@@ -280,3 +287,19 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _puk
+  - scope:
+      path: ""
+      type: puk
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _authors
+  - scope:
+      path: ""
+      type: authors
+    values:
+      layout: archive
+      author_profile: true
+      share: true

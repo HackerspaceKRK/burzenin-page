@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /najwazniejsze
-author: Wiktor Przybylski
+author: sq9wtf
 author_profile: true
 ---
 

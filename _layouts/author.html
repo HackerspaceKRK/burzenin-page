@@ -1,0 +1,19 @@
+---
+layout: archive
+---
+
+{% assign author = site.data.authors[page.author] %}
+{% assign posts = site.puk | where_exp:"item", "item.author == page.author" %}
+    
+    <section class="taxonomy__section">
+      <h2 class="archive__subtitle">Projekty:</h2>
+      <div class="entries-list">
+
+        {% for post in posts %}
+          {% include archive-single.html type=entries_layout %}
+        {% endfor %}
+        
+      </div>
+    </section>
+
+    {{ content }}

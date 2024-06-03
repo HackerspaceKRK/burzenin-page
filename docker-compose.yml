@@ -3,7 +3,8 @@ version: "3"
 services:
   jekyll:
     build: .
-    command: jekyll serve --trace --host 0.0.0.0
+    restart: until-stopped
+    command: jekyll serve --trace --livereload  --force_polling --host 0.0.0.0
     volumes:
       - .:/app
     ports:
