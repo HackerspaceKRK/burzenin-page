@@ -75,3 +75,16 @@ sq7hjb:
     - label: "QRZ.com"
       icon: "fas fa-fw fa-book"
       url: "https://www.qrz.com/db/sq7hjb"
+
+ekipa:
+  name             : "Ekipa zjazdu"
+  avatar           : "/assets/images/zjazd.png"
+  bio              : "Wolontariusze odpowiedzialni za ten cały bałagan"
+  email            : kontakt@zjazdtechniczny.krotkofalowcy.com.pl
+  links:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/zjazdtechniczny"
+    - label: "Skład ekipy"
+      icon: "fa fa-fw fa-users"
+      url: "/staff"

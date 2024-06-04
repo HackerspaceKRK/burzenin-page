@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /najwazniejsze
-author: sq9wtf
+author: ekipa
 classes: wide
 author_profile: true
 toc: true
@@ -22,7 +22,9 @@ toc: true
 
 
 ### P: Jak się z Wami kontaktować?
-**O:** W sprawach organizacyjnych prosimy kontaktować się na mail kontaktowy: kontakt@zjazdtechniczny.krotkofalowcy.com.pl, Jak mamy Wasze wiadomości w 5 miejscach to to nam nie ułatwia.
+**O:** W sprawach organizacyjnych prosimy kontaktować się z nami przez mail kontaktowy:[kontakt@zjazdtechniczny.krotkofalowcy.com.pl](mailto:kontakt@zjazdtechniczny.krotkofalowcy.com.pl). Prosimy - nie piszcie do nas na prywatne maile. 
+- Jak mamy Wasze wiadomości w 5 miejscach to to nam nie ułatwia.
+- Wspólnego maila zjazdowego obserwuje więcej par oczu.
 
 ## Płatności i bilety
 
@@ -66,7 +68,7 @@ toc: true
 
 
 ### P: Co z noclegami?
-**O:** Noclegi są w pokojach 3 i 5 osobowych z łazienkami. Można sobie wykupić miejsce (i wtedy jest przydzielane losowo), można też dogadać się z kolegami i wykupić cały pokój. Wtedy wiadomo kto ci chrapie do ucha. Szkoły są dwie – jedni wolą ze swoimi, inni wolą poznawać nowych kolegów i nowe koleżanki. Bazując na doświadczeniu sugerujemy, żeby małżeństwa i pary spały w tym samym pokoju. UWAGA, Należy wziąć własny ręcznik. Tym, którzy czytali Douglasa Adamsa nie trzeba chyba tego powtarzać ;)
+**O:** Noclegi są w pokojach 3 i 5 osobowych z łazienkami. Można sobie wykupić miejsce (i wtedy jest przydzielane losowo), można też dogadać się z kolegami i wykupić cały pokój. Wtedy wiadomo kto ci chrapie do ucha. Szkoły są dwie – jedni wolą ze swoimi, inni wolą poznawać nowych kolegów i nowe koleżanki. Bazując na doświadczeniu sugerujemy, żeby małżeństwa i pary spały w tym samym pokoju. **UWAGA**, Należy wziąć własny ręcznik. Tym, którzy czytali Douglasa Adamsa nie trzeba chyba tego powtarzać ;)
 
 
 ### P: No dobra a jak mam namiot albo kampera?
