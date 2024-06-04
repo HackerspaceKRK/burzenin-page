@@ -11,7 +11,23 @@ author_profile: true
 ### P: Co z naszymi zwierzakami?
 **O:** Na teren Zjazdu **NIE MOŻNA PRZYWOZIĆ ŻADNYCH ZWIERZĄT** - to są wymagania właścicieli Ośrodka, które **MUSIMY** uszanować. 
 
+
+### P: Czy będą aktywności dla dzieci?
+**O:** Tak, będą organizowane aktywności dla dzieci.
+
+
+### P: Jak się z Wami kontaktować?
+**O:** W sprawach organizacyjnych prosimy kontaktować się na mail kontaktowy: kontakt@zjazdtechniczny.krotkofalowcy.com.pl, Jak mamy Wasze wiadomości w 5 miejscach to to nam nie ułatwia.
+
 ## Płatności i bilety
+
+
+### P: Czy każdy uczestnik wydarzenia musi się zarejestrować i wykupić bilet?
+**O:** Tak, każdy uczestnik musi się zarejestrować i wykupić bilet **w sklepie online**: <https://zjazdtechniczny.krotkofalowcy.com.pl/sklep/>.
+
+
+### P: Czy bilety bez wyżywienia i noclegu można kupić na miejscu podczas imprezy?
+**O:** Nie, bilety bez wyżywienia i noclegu można kupić nawet podczas imprezy, ale tylko online. Na miejscu nie przyjmujemy żadnych płatności.
 
 ### P: Czy będzie możliwość wykupienia biletu wejściowego na miejscu za gotówkę?
 **O:** Nie - nie dysponujemy kasą fiskalną, wszystkie bilety / wejściówki muszą być kupione przez nasz sklep internetowy: <https://zjazdtechniczny.krotkofalowcy.com.pl/sklep/>. Można to zrobić oczywiście już w momencie przyjazdu, jednak **NIE PRZYJMUJEMY GOTÓWKI**. 
@@ -37,6 +53,10 @@ author_profile: true
 ### P: Potrzebuje fakturę VAT
 **O:** Nie ma problemu, zgłoś to podczas zamawiania biletu w sklepie internetowym.
 
+
+### P: Jak można zapisać się na warsztaty?
+**O:** Na warsztaty najprawdopodobniej będą osobne zapisy, również przez sklep online.
+
 ## Nocleg i przetrwanie
 
 ### P: Co z kamperami?
@@ -53,25 +73,5 @@ Może to być wydrukowana przepustka wg wzoru: https://zjazdtechniczny.krotkofal
 W uzasadnionych przypadkach, np osób z niepełnosprawnością prosimy o wcześniejszy kontakt z organizatorami - ogarniemy.
 
 
-### P: Jak się z Wami kontaktować?
-**O:** W sprawach organizacyjnych prosimy kontaktować się na mail kontaktowy: kontakt@zjazdtechniczny.krotkofalowcy.com.pl, Jak mamy Wasze wiadomości w 5 miejscach to to nam nie ułatwia.
-
-
-### P: Czy każdy uczestnik wydarzenia musi się zarejestrować i wykupić bilet?
-**O:** Tak, każdy uczestnik musi się zarejestrować i wykupić bilet **w sklepie online**: <https://zjazdtechniczny.krotkofalowcy.com.pl/sklep/>.
-
-
-### P: Czy bilety bez wyżywienia i noclegu można kupić na miejscu podczas imprezy?
-**O:** Nie, bilety bez wyżywienia i noclegu można kupić nawet podczas imprezy, ale tylko online. Na miejscu nie przyjmujemy żadnych płatności.
-
-
 ### P: Czy dla nocujących uczestników dostępny jest parking?
 **O:** Tak, dla nocujących uczestników dostępny jest parking. Jeśli ktoś ma problemy z poruszaniem się, prosimy o wcześniejszy kontakt w celu zorganizowania bliższego miejsca parkingowego.
-
-
-### P: Czy będą aktywności dla dzieci?
-**O:** Tak, będą organizowane aktywności dla dzieci.
-
-
-### P: Jak można zapisać się na warsztaty?
-**O:** Na warsztaty najprawdopodobniej będą osobne zapisy, również przez sklep online.
