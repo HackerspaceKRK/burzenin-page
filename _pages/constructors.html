@@ -1,65 +1,41 @@
 ---
-layout: splash
+layout: collection
 permalink: /constructors
+collection: authors
+entries_layout: grid
+author: sq9wtf
 ---
 
-<!-- {% for author in site.data.authors %}
-
-	{% if author[1].avatar %}
-		<div class="author__avatar">
-		<a href="{{ author.home | default: '/' | absolute_url }}">
-			<img src="{{ author[1].avatar | relative_url }}" alt="{{ author[1].name }}" itemprop="image" class="u-photo">
-		</a>
-		</div>
-	{% endif %}
-{% endfor %} -->
 <h1>Szanowni konstruktorzy</h1>
 
-<div class="feature__wrapper">
+<div class="participants-container" style="--columns: 5;">
+{% for f in site.data.authors %}
+	{% if f[1].constructor %}
+	<div class="participant">
+		{% if f[1].avatar %}
+			<img src="{{ f[1].avatar | relative_url }}" itemprop="image" class="u-photo" alt="{% if f[1].name %}{{ f[1].name }}{% endif %}">
+		{% else %}
+			<img src="{{ 'assets/images/zjazd.png' | relative_url }}" itemprop="image" class="u-photo" style="opacity: 0.4;" alt="Zaślepka">
+		{% endif %}
+		{% if f[1].name %}
+			<h2 class="archive__item-title">{{ f[1].name }} <small style="color: rgb(212, 212, 212);">{{ f[1].callsign }}</small></h2>
+		{% endif %}
 
-	{% for f in site.data.authors %}
-		{% if f[1].constructor %}
-	  <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
-		<div class="archive__item">
-		  {% if f[1].avatar %}
-			<div class="archive__item-teaser">
-			  <img src="{{ f[1].avatar | relative_url }}" itemprop="image" class="u-photo" 
-				   alt="{% if f[1].name %}{{ f[1].name }}{% endif %}">
-			  {% if f[1].image_caption %}
-				<span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
-			  {% endif %}
-			</div>
-		  {% else %}
-		  <div class="archive__item-teaser">
-			<img src="{{ 'assets/images/zjazd.png' | relative_url }}" itemprop="image" class="u-photo" style="opacity: 0.4;" 
-				 alt="Zaślepka">
-		  </div>
-		  {% endif %}
-  
-		  <div class="archive__item-body">
-			{% if f[1].name %}
-			  <h2 class="archive__item-title">{{ f[1].name }} <small style="color: rgb(212, 212, 212);">{{ f[1].callsign }}</small></h2>
-			{% endif %}
-  
-			{% if f[1].bio %}
-			  <div class="archive__item-excerpt">
-				{% if f[1].constructor_bio %}
-				{{ f[1].constructor_bio | markdownify }}
-				{% else %}
-				{{ f[1].bio | markdownify }}
-				{% endif %}
-				
-			  </div>
-			{% endif %}
-  
-			{% if f.url %}
-			  <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
-			{% endif %}
-		  </div>
-		</div>
-	  </div>
-	  {% endif %}
-	{% endfor %}
-  
-  </div>
-  
+		{% if f[1].constructor_bio %}
+			<div class="archive__item-excerpt"> {{ f[1].constructor_bio | markdownify }} </div>
+		{% endif %}
+
+		{% if f.url %}
+			<p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+		{% endif %}
+
+		{% capture project_count %}
+			{% include constructor_count.html current_author=f %}
+	  	{% endcapture %}
+
+		<a href="/author/{{ f[0] }}" class="page__taxonomy-item p-category">Projektów: {{ project_count }}</a>
+		
+	</div>
+	{% endif %}
+{% endfor %}
+</div>

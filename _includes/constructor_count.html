@@ -1,0 +1,11 @@
+{% assign collection = site['puk'] %}
+{% assign specified_author = include.current_author[0] %}
+{% assign author_count = 0 %}
+
+{% for item in collection %}
+  {% if item.author == specified_author %}
+    {% assign author_count = author_count | plus: 1 %}
+  {% endif %}
+{% endfor %}
+
+<span>{{ author_count }}</span>

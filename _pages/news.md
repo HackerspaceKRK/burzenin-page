@@ -1,5 +1,5 @@
 ---
 layout: posts
 permalink: /news
-author_profile: true
+author_profile: false
 ---

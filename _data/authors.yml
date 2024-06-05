@@ -35,7 +35,7 @@ sp7ukl:
   callsign        : "SP7UKL"
   bio             : "Mózg całego sklepu i systemu zamówień, a także bardzo miły człowiek"
   zjazd_orga      : yes
-  constructor     : yes
+  constructor     : no
 
 sp9mrn:
   name            : "Maciek Bal"

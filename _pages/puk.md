@@ -7,6 +7,11 @@ entries_layout: grid
 classes: wide
 ---
 
+<a href="/constructors" class="btn btn--info btn--large">Autorzy</a>
+<a href="#" class="btn btn--info btn--large">Projekty</a>
+<a href="#" class="btn btn--info btn--large">Edycje</a>
+<a href="#" class="btn btn--info btn--large">Historia</a>
+
 Konkurs na **Przydatne Urządzenie Krótkofalarskie** odbył się po raz pierwszy w roku **2010** dla „wyłonienia oryginalnej i ciekawej konstrukcji urządzenia, które może znaleźć zastosowanie w pracowni radioamatora i będzie w łatwy sposób możliwe do odwzorowania przez początkujących krótkofalowców”. Określenie celu konkursu nieco ewoluowało przez lata, ustalone zostały kategorie prac/projektów, ale niezmienna pozostaje główna...
 
 ## Idea
