@@ -3,7 +3,8 @@ title: "Ogłaszamy pierwszy temat i prezentującego!"
 author: sq9zaq
 # categories:
 tags:
-  - wyklady
+  - wykłady
+  - ogłoszenia
 ---
 
 ![]({{ '/assets/images/posts/sp9lvz_blu_ip3.jpg' | relative_url }})
