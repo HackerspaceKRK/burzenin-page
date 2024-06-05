@@ -15,7 +15,7 @@ sq9wtf:
 
 sq9zaq:
   name            : "canis_lupus"
-  constructor_bio : "Maka paka"
+  # constructor_bio : ""
   bio             : "Unlis i ukrywający coś, wstydzący się swojego znaku, człowiek z ulicy, losowa osoba z internetu, element, ignorant i darmozjad, anonimowy pirat, konfident, donosiciel"
   avatar          : "/assets/images/people/sq9zaq.jpg"
   callsign        : SQ9ZAQ
