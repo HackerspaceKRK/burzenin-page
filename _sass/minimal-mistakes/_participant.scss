@@ -20,6 +20,9 @@ $breakpoint-sm: 768px;
   text-align: center;
 
   img {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
     max-width: 100%;
     height: auto;
     border-radius: 50%;
@@ -54,16 +57,31 @@ $breakpoint-sm: 768px;
   .participants-container {
     --columns: 5;
   }
+  .participant {
+    img {
+      max-width: 35%;
+    }
+  }
 }
 
 @media (max-width: $breakpoint-md) {
   .participants-container {
-    --columns: 3;
+    --columns: 2;
   }
+  .participant {
+    img {
+      max-width: 35%;
+    }
+  }
+}
 
-  @media (max-width: $breakpoint-sm) {
-    .participants-container {
-      --columns: 1;
+@media (max-width: $breakpoint-sm) {
+  .participants-container {
+    --columns: 1;
+  }
+  .participant {
+    img {
+      max-width: 35%;
     }
   }
 }
