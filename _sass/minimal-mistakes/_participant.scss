@@ -7,7 +7,7 @@ $breakpoint-sm: 768px;
 
 .participants-container {
   display: grid;
-  grid-template-columns: repeat(var(--columns, 3), 1fr);
+  grid-template-columns: repeat(var(--columns, 5), 1fr);
   gap: $gap-size;
 }
 
@@ -52,12 +52,18 @@ $breakpoint-sm: 768px;
 
 @media (max-width: $breakpoint-lg) {
   .participants-container {
-    --columns: 3;
+    --columns: 5;
   }
 }
 
 @media (max-width: $breakpoint-md) {
   .participants-container {
-    --columns: 2;
+    --columns: 3;
+  }
+
+  @media (max-width: $breakpoint-sm) {
+    .participants-container {
+      --columns: 1;
+    }
   }
 }
