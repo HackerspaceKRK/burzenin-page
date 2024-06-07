@@ -45,7 +45,7 @@ sp9mrn:
   first_name      : "Maciek"
   callsign        : "SP9MRN"
   bio             : "Wieloletni organizator Zjazdu, człowiek o niebagatelnej wiedzy operacyjnej i anielskiej cierpliwości do nawet najupierdliwszych krótkofalowców"
-  constructor_bio : "Potrafi zrobić radio z wykałaczki i gumki od majtek"
+  constructor_bio : "Ojciec (matka?) Zjazdów Technicznych w Burzeninie... Konstruktor Małego Radia Nasłuchowca. Członek i działacz PZK, RedNacz TK/Propagacji. Można go polubić... :-)"
   avatar          : "/assets/images/people/sp9mrn.jpg"
   authorpage      : "/author/sp9mrn/"
   zjazd_orga      : yes
@@ -154,7 +154,7 @@ SP6IFN:
   name              : Ryszard
   callsign          : SP6IFN
   constructor       : yes
-
+  constructor_bio   : Krótkofalowiec konstruktor od lat '70 ubiegłego wieku. Autor wielu projektów radiowych, współorganizator Zjazdów Technicznych SP, działacz PZK.
 ## end SP6IFN
 
 ## begin SP7YC
@@ -194,6 +194,7 @@ SP2OFS:
   name              : Jakub
   callsign          : SP2OFS
   constructor       : yes
+  constructor_bio   : Licencjonowany krótkofalowiec od 1984 roku, aktywny na KF i UKF, lubi eksperymentować z róznymi antenami. Członek bydgoskiego klubu SP2PUT.
 
 ## end SP2OFS
 
@@ -218,6 +219,7 @@ SQ5RWU:
   name              : Łukasz
   callsign          : SQ5RWU
   constructor       : yes
+  constructor_bio   : Z zawodu programista. Twierdzi, że w ogóle nie zna się na elektronice, ale to nie przeszkadza mu próbować!
 
 ## end SQ5RWU
 
@@ -234,6 +236,7 @@ SQ7BFS:
   name              : Waldemar
   callsign          : 3Z6AEF
   constructor       : yes
+  constructor_bio   : Radioamator konstruktor, zainteresowany głównie urządzeniami pomiarowymi. Współorganizator Zjazdów Technicznych, konkursów PUK od 2011 roku, członek i działacz PZK.
 
 ## end 3Z6AEF
 
@@ -258,6 +261,7 @@ SP9HVW:
   name              : Józef
   callsign          : SP9HVW
   constructor       : yes
+  constructor_bio   : Doświadczony konstruktor urządzeń radiowych i pomiarowych. Umie naprawić każde urządzenie krótkofalarskie. Członek PZK - klub SP9PKM.
 
 ## end SP9HVW
 
@@ -266,6 +270,7 @@ SP9NJ:
   name              : Spike
   callsign          : SP9NJ
   constructor       : yes
+  constructor_bio   : Muzyk, grzybiarz, programista webowy. Współorganizator Zjazdów Technicznych, autor platformy LogSP, programu Inwentarza Archiwalnego PZK i wielu innych.
 
 ## end SP9NJ
 
@@ -274,6 +279,7 @@ SQ5KVS:
   name              : Karol
   callsign          : SQ5KVS
   constructor       : yes
+  constructor_bio   : Obserwator komet i innych kosmicznych obiektów, krótkofalowiec (licencja 2013), ciekawy wszelkich nowinek technicznych, ale docenia również historię.
 
 ## end SQ5KVS
 
@@ -306,6 +312,7 @@ SP2CNW:
   name              : Janusz
   callsign          : SP2CNW
   constructor       : yes
+  constructor_bio   : Specjalista od anten na fale ultrakrótkie i mikrofale, zajmuje się tym od 1967 roku (najpierw jako SP1CNW). Niektórzy mylą go z SP1CNV...
 
 ## end SP2CNW
 
@@ -322,6 +329,7 @@ SP4LVC:
   name              : Bogdan
   callsign          : SP4LVC
   constructor       : yes
+  constructor_bio   : Elektroniką interesuje się od czasów tranzystora TG5 i podobnych. Licencję krótkofalarską uzyskał w 1980 r. i od tamtej pory nieustannie jest na pasmach. Ulubiona działalność to DX-y i konstrukcje - najczęściej na bazie już opracowanych urządzeń, ale również autorskie projekty.
 
 ## end SP4LVC
 
@@ -346,6 +354,8 @@ SP6-01-446:
   name              : Irek
   callsign          : SP6-01-446
   constructor       : yes
+  constructor_bio   : Raczej mechanik, niż elektronik - wie jak zatankować helikopter Mi-24 i naprawić migomat. Mieszka w australijskim buszu, gdzieś koło Sydney - do Polski przyjeżdża na Zjazdy Techniczne SP...
+
 
 ## end SP6-01-446
 
@@ -370,6 +380,7 @@ SP6MLF:
   name              : Jarosław
   callsign          : SP6MLF
   constructor       : yes
+  constructor_bio   : Niezwykle skromny i uczynny, zapalony konstruktor urzadzeń radiowych i anten. Członek PZK od 1980 roku, kierownik radiostacji klubu 3Z0TECH.
 
 ## end SP6MLF
 
@@ -386,6 +397,7 @@ SP7Q:
   name              : Tomasz
   callsign          : SP7Q
   constructor       : yes
+  constructor_bio   : Zapalony telegrafista (www.titawa.pl), lubi wyprawy terenowe i zawody. Często buduje urządzenia krótkofalarskie - wyłącznie przydatne!
 
 ## end SP7Q
 
@@ -426,6 +438,7 @@ SQ2RH:
   name              : Roman
   callsign          : SQ2RH
   constructor       : yes
+  constructor_bio   : W radioamatorkim hobby od lat '80 ubiegłego wieku, licencjonowany krótkofalowiec od 2002 roku. Niezwykle doświadczony administrator i programista IT. Lubi czasem zbudować coś krótkofalarsko przydatnego...
 
 ## end SQ2RH
 
@@ -434,6 +447,7 @@ SQ3NQJ:
   name              : Krzysztof
   callsign          : SQ3NQJ
   constructor       : yes
+  constructor_bio   : Przemądrzały (podobno) pracownik politechniki, z zamiłowaniem do elektroniki i przetwarzania sygnałów, historii techniki, modelarstwa i militariów.
 
 ## end SQ3NQJ
 
@@ -442,6 +456,7 @@ SQ5FGB:
   name              : Lucjan
   callsign          : SQ5FGB
   constructor       : yes
+  constructor_bio   : Konstruktor urządzeń elektronicznych, programista C/C++ systemów wbudowanych, wykładowca. Autor publikacji i książek dedykowanych mikrokontrolerom jednoukładowym ARM.
 
 ## end SQ5FGB
 
@@ -482,6 +497,7 @@ SQ6RGK:
   name              : Łukasz
   callsign          : SQ6RGK
   constructor       : yes
+  constructor_bio   : Motocyklista, krótkofalowiec, konstruktor. Zna się na elementach elektronicznych. Wie jak nadawać z terenu na własnej antenie. Członek PZK od 2009 roku.
 
 ## end SQ6RGK
 

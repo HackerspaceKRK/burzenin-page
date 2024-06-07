@@ -11,6 +11,10 @@ $breakpoint-sm: 768px;
   gap: $gap-size;
 }
 
+.constructor-bio {
+  margin-bottom: 1em;
+}
+
 .participant {
   display: flex;
   flex-direction: column;

@@ -49,18 +49,14 @@ author: sq9wtf
 		{% endif %}
 
 		{% if f[1].constructor_bio %}
-			<div class="archive__item-excerpt"> {{ f[1].constructor_bio | markdownify }} </div>
-		{% endif %}
-
-		{% if f.url %}
-			<p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+			<div class="constructor-bio"> {{ f[1].constructor_bio | markdownify }} </div>
 		{% endif %}
 
 		{% capture project_count %}
 			{% include constructor_count.html current_author=f %}
 	  	{% endcapture %}
 
-		<a href="/author/{{ f[0] }}" class="page__taxonomy-item p-category">Projektów: {{ project_count }}</a>
+		<p><a href="/author/{{ f[0] }}" class="page__taxonomy-item p-category">Projektów: {{ project_count }}</a></p>
 		
 	</div>
 	{% endif %}
