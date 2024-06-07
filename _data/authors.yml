@@ -1,5 +1,6 @@
 sq9wtf:
   name            : "Wiktor Przybylski"
+  first_name      : "Wiktor"
   bio             : "Ten duży, z głupimi pomysłami"
   avatar          : "/assets/images/people/sq9wtf.jpg"
   zjazd_orga      : yes
@@ -15,6 +16,7 @@ sq9wtf:
 
 sq9zaq:
   name            : "canis_lupus"
+  first_name      : "Szymon"
   # constructor_bio : ""
   bio             : "Unlis i ukrywający coś, wstydzący się swojego znaku, człowiek z ulicy, losowa osoba z internetu, element, ignorant i darmozjad, anonimowy pirat, konfident, donosiciel"
   avatar          : "/assets/images/people/sq9zaq.jpg"
@@ -32,6 +34,7 @@ sq9zaq:
 
 sp7ukl:
   name            : "Cezary Libert"
+  first_name      : "Czarek"
   callsign        : "SP7UKL"
   bio             : "Mózg całego sklepu i systemu zamówień, a także bardzo miły człowiek"
   zjazd_orga      : yes
@@ -39,6 +42,7 @@ sp7ukl:
 
 sp9mrn:
   name            : "Maciek Bal"
+  first_name      : "Maciek"
   callsign        : "SP9MRN"
   bio             : "Wieloletni organizator Zjazdu, człowiek o niebagatelnej wiedzy operacyjnej i anielskiej cierpliwości do nawet najupierdliwszych krótkofalowców"
   constructor_bio : "Potrafi zrobić radio z wykałaczki i gumki od majtek"
@@ -88,3 +92,427 @@ ekipa:
     - label: "Skład ekipy"
       icon: "fa fa-fw fa-users"
       url: "/staff"
+
+## begin SQ7OVV
+SQ7OVV:
+  name              : Kuba
+  callsign          : SQ7OVV
+  constructor       : yes
+
+## end SQ7OVV
+
+## begin SQ1GU
+SQ1GU:
+  name              : Andrzej
+  callsign          : SQ1GU
+  constructor       : yes
+
+## end SQ1GU
+
+## begin SQ7JHM
+SQ7JHM:
+  name              : Jerzy
+  callsign          : SQ7JHM
+  constructor       : yes
+
+## end SQ7JHM
+
+## begin SP2GYA
+SP2GYA:
+  name              : Grzegorz
+  callsign          : SP2GYA
+  constructor       : yes
+
+## end SP2GYA
+
+## begin SP5MAD
+SP5MAD:
+  name              : Włodzimierz
+  callsign          : SP5MAD
+  constructor       : yes
+
+## end SP5MAD
+
+## begin SP6FRE
+SP6FRE:
+  name              : Leszek
+  callsign          : SP6FRE
+  constructor       : yes
+
+## end SP6FRE
+
+## begin SP7NJ
+SP7NJ:
+  name              : Paweł
+  callsign          : SP7NJ
+  constructor       : yes
+
+## end SP7NJ
+
+## begin SP6IFN
+SP6IFN:
+  name              : Ryszard
+  callsign          : SP6IFN
+  constructor       : yes
+
+## end SP6IFN
+
+## begin SP7YC
+SP7YC:
+  name              : Sławoj
+  callsign          : SP7YC
+  constructor       : yes
+
+## end SP7YC
+
+## begin SQ3MVE
+SQ3MVE:
+  name              : Mariusz
+  callsign          : SQ3MVE
+  constructor       : yes
+
+## end SQ3MVE
+
+## begin SQ4AVS
+SQ4AVS:
+  name              : Rafał
+  callsign          : SQ4AVS
+  constructor       : yes
+
+## end SQ4AVS
+
+## begin SQ7MZL
+SQ7MZL:
+  name              : Edward
+  callsign          : SQ7MZL
+  constructor       : yes
+
+## end SQ7MZL
+
+## begin SP2OFS
+SP2OFS:
+  name              : Jakub
+  callsign          : SP2OFS
+  constructor       : yes
+
+## end SP2OFS
+
+## begin SP2Z
+SP2Z:
+  name              : Bartosz
+  callsign          : SP2Z
+  constructor       : yes
+
+## end SP2Z
+
+## begin SP6LTP
+SP6LTP:
+  name              : Zbigniew
+  callsign          : SP6LTP
+  constructor       : yes
+
+## end SP6LTP
+
+## begin SQ5RWU
+SQ5RWU:
+  name              : Łukasz
+  callsign          : SQ5RWU
+  constructor       : yes
+
+## end SQ5RWU
+
+## begin SQ7BFS
+SQ7BFS:
+  name              : Łukasz
+  callsign          : SQ7BFS
+  constructor       : yes
+
+## end SQ7BFS
+
+## begin 3Z6AEF
+3Z6AEF:
+  name              : Waldemar
+  callsign          : 3Z6AEF
+  constructor       : yes
+
+## end 3Z6AEF
+
+## begin SP8HMZ
+SP8HMZ:
+  name              : Karol
+  callsign          : SP8HMZ
+  constructor       : yes
+
+## end SP8HMZ
+
+## begin SP8QEP
+SP8QEP:
+  name              : Piotr
+  callsign          : SP8QEP
+  constructor       : yes
+
+## end SP8QEP
+
+## begin SP9HVW
+SP9HVW:
+  name              : Józef
+  callsign          : SP9HVW
+  constructor       : yes
+
+## end SP9HVW
+
+## begin SP9NJ
+SP9NJ:
+  name              : Spike
+  callsign          : SP9NJ
+  constructor       : yes
+
+## end SP9NJ
+
+## begin SQ5KVS
+SQ5KVS:
+  name              : Karol
+  callsign          : SQ5KVS
+  constructor       : yes
+
+## end SQ5KVS
+
+## begin SQ9KG
+SQ9KG:
+  name              : Krzysztof
+  callsign          : SQ9KG
+  constructor       : yes
+
+## end SQ9KG
+
+## begin SQ9MDD
+SQ9MDD:
+  name              : Ryszard
+  callsign          : SQ9MDD
+  constructor       : yes
+
+## end SQ9MDD
+
+## begin SQ9PBS
+SQ9PBS:
+  name              : Wojciech
+  callsign          : SQ9PBS
+  constructor       : yes
+
+## end SQ9PBS
+
+## begin SP2CNW
+SP2CNW:
+  name              : Janusz
+  callsign          : SP2CNW
+  constructor       : yes
+
+## end SP2CNW
+
+## begin SP3JML
+SP3JML:
+  name              : Lech
+  callsign          : SP3JML
+  constructor       : yes
+
+## end SP3JML
+
+## begin SP4LVC
+SP4LVC:
+  name              : Bogdan
+  callsign          : SP4LVC
+  constructor       : yes
+
+## end SP4LVC
+
+## begin SP5BMP
+SP5BMP:
+  name              : Janusz
+  callsign          : SP5BMP
+  constructor       : yes
+
+## end SP5BMP
+
+## begin SP5CGI
+SP5CGI:
+  name              : Maciej
+  callsign          : SP5CGI
+  constructor       : yes
+
+## end SP5CGI
+
+## begin SP6-01-446
+SP6-01-446:
+  name              : Irek
+  callsign          : SP6-01-446
+  constructor       : yes
+
+## end SP6-01-446
+
+## begin SP6DLO
+SP6DLO:
+  name              : Sławomir
+  callsign          : SP6DLO
+  constructor       : yes
+
+## end SP6DLO
+
+## begin SP6EER
+SP6EER:
+  name              : Zdzisław
+  callsign          : SP6EER
+  constructor       : yes
+
+## end SP6EER
+
+## begin SP6MLF
+SP6MLF:
+  name              : Jarosław
+  callsign          : SP6MLF
+  constructor       : yes
+
+## end SP6MLF
+
+## begin SP6QKS
+SP6QKS:
+  name              : Stefan
+  callsign          : SP6QKS
+  constructor       : yes
+
+## end SP6QKS
+
+## begin SP7Q
+SP7Q:
+  name              : Tomasz
+  callsign          : SP7Q
+  constructor       : yes
+
+## end SP7Q
+
+## begin SP7ROH
+SP7ROH:
+  name              : Maciej
+  callsign          : SP7ROH
+  constructor       : yes
+
+## end SP7ROH
+
+## begin SP9JM
+SP9JM:
+  name              : Krzysztof
+  callsign          : SP9JM
+  constructor       : yes
+
+## end SP9JM
+
+## begin SP9LLA
+SP9LLA:
+  name              : Kazimierz
+  callsign          : SP9LLA
+  constructor       : yes
+
+## end SP9LLA
+
+## begin SP9WR
+SP9WR:
+  name              : Waldemar
+  callsign          : SP9WR
+  constructor       : yes
+
+## end SP9WR
+
+## begin SQ2RH
+SQ2RH:
+  name              : Roman
+  callsign          : SQ2RH
+  constructor       : yes
+
+## end SQ2RH
+
+## begin SQ3NQJ
+SQ3NQJ:
+  name              : Krzysztof
+  callsign          : SQ3NQJ
+  constructor       : yes
+
+## end SQ3NQJ
+
+## begin SQ5FGB
+SQ5FGB:
+  name              : Lucjan
+  callsign          : SQ5FGB
+  constructor       : yes
+
+## end SQ5FGB
+
+## begin SQ5RWQ
+SQ5RWQ:
+  name              : Adam
+  callsign          : SQ5RWQ
+  constructor       : yes
+
+## end SQ5RWQ
+
+## begin SQ5STU
+SQ5STU:
+  name              : Piotr
+  callsign          : SQ5STU
+  constructor       : yes
+
+## end SQ5STU
+
+## begin SQ6DGT
+SQ6DGT:
+  name              : Robert
+  callsign          : SQ6DGT
+  constructor       : yes
+
+## end SQ6DGT
+
+## begin SQ6QV
+SQ6QV:
+  name              : Tomasz
+  callsign          : SQ6QV
+  constructor       : yes
+
+## end SQ6QV
+
+## begin SQ6RGK
+SQ6RGK:
+  name              : Łukasz
+  callsign          : SQ6RGK
+  constructor       : yes
+
+## end SQ6RGK
+
+## begin SQ7ALX
+SQ7ALX:
+  name              : Aleksandra
+  callsign          : SQ7ALX
+  constructor       : yes
+
+## end SQ7ALX
+
+## begin SQ7OVZ
+SQ7OVZ:
+  name              : Marcin
+  callsign          : SQ7OVZ
+  constructor       : yes
+
+## end SQ7OVZ
+
+## begin SQ7PEL
+SQ7PEL:
+  name              : Patryk
+  callsign          : SQ7PEL
+  constructor       : yes
+
+## end SQ7PEL
+
+## begin SQ8MFB
+SQ8MFB:
+  name              : Zbigniew
+  callsign          : SQ8MFB
+  constructor       : yes
+
+## end SQ8MFB

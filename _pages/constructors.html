@@ -11,14 +11,41 @@ author: sq9wtf
 <div class="participants-container" style="--columns: 5;">
 {% for f in site.data.authors %}
 	{% if f[1].constructor %}
-	<div class="participant">
-		{% if f[1].avatar %}
-			<img src="{{ f[1].avatar | relative_url }}" itemprop="image" class="u-photo" alt="{% if f[1].name %}{{ f[1].name }}{% endif %}">
+		<div class="participant">
+
+			{% if f[1].avatar %}
+			{% assign img_src = f[1].avatar | relative_url %}
+			{% assign img_alt = f[1].name %}
+			{% assign img_style = "" %}
 		{% else %}
-			<img src="{{ 'assets/images/zjazd.png' | relative_url }}" itemprop="image" class="u-photo" style="opacity: 0.4;" alt="Zaślepka">
+			{% assign img_src = 'assets/images/zjazd.png' | relative_url %}
+			{% assign img_alt = "Zaślepka" %}
+			{% assign img_style = "opacity: 0.4;" %}
 		{% endif %}
-		{% if f[1].name %}
-			<h2 class="archive__item-title">{{ f[1].name }} <small style="color: rgb(212, 212, 212);">{{ f[1].callsign }}</small></h2>
+		
+		{% assign img_class = "u-photo" %}
+		{% if f[1].sk %}
+			{% assign img_class = img_class | append: " sk" %}
+		{% endif %}
+		
+		<img src="{{ img_src }}" itemprop="image" class="{{ img_class }}" style="{{ img_style }}" alt="{{ img_alt }}">
+	
+
+		{% if f[1].first_name %}
+			{% assign display_name = f[1].first_name %}
+		{% elsif f[1].name %}
+			{% assign display_name = f[1].name %}
+		{% endif %}
+
+		{% if display_name %}
+    		{% if f[1].sk %}
+        		{% assign display_name = display_name | append: " (SK)" %}
+    		{% endif %}
+    		<h2 class="archive__item-title">{{ display_name }} 
+        	{% if f[1].callsign %}
+            	<small style="color: rgb(212, 212, 212);">{{ f[1].callsign }}</small>
+        	{% endif %}
+    		</h2>
 		{% endif %}
 
 		{% if f[1].constructor_bio %}
