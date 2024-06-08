@@ -1,5 +1,5 @@
 ---
 layout: author
-author: SP2GYA
+author: sp2gya
 title: ""
 ---

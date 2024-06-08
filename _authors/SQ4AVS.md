@@ -1,5 +1,5 @@
 ---
 layout: author
-author: SQ4AVS
+author: sq4avs
 title: ""
 ---

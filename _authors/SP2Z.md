@@ -1,5 +1,5 @@
 ---
 layout: author
-author: SP2Z
+author: sp2z
 title: ""
 ---

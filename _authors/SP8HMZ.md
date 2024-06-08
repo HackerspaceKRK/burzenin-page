@@ -1,5 +1,5 @@
 ---
 layout: author
-author: SP8HMZ
+author: sp8hmz
 title: ""
 ---

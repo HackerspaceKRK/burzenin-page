@@ -1,5 +1,5 @@
 ---
 layout: author
-author: 3Z6AEF
+author: 3z6aef
 title: ""
 ---

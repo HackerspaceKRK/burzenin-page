@@ -1,5 +1,5 @@
 ---
 layout: author
-author: SP6IFN
+author: sp6ifn
 title: ""
 ---

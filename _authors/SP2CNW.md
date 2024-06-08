@@ -1,5 +1,5 @@
 ---
 layout: author
-author: SP2CNW
+author: sp2cnw
 title: ""
 ---

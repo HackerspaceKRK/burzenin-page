@@ -1,5 +1,5 @@
 ---
 layout: author
-author: SQ9PBS
+author: sq9pbs
 title: ""
 ---

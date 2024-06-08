@@ -1,5 +1,5 @@
 ---
 layout: author
-author: SP4LVC
+author: sp4lvc
 title: ""
 ---

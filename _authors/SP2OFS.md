@@ -1,5 +1,5 @@
 ---
 layout: author
-author: SP2OFS
+author: sp2ofs
 title: ""
 ---

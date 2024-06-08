@@ -4,9 +4,9 @@ main:
     url: https://zjazdtechniczny.krotkofalowcy.com.pl/sklep/
   - title: "Program"
     url: /program
-  - title: "Aktualności"
-    url: /news
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  # - title: "Aktualności"
+  #   url: /news
+  - title: "Konkurs PUK"
+    url: /puk/
   # - title: "Sitemap"
   #   url: /sitemap/

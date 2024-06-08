@@ -8,8 +8,6 @@ header:
   actions:
     - label: "<i class='fas fa-download'></i> Przejdź do rejestracji"
       url: "https://zjazdtechniczny.krotkofalowcy.com.pl/sklep/"
-    - label: "<i class='fas fa-download'></i> Zobacz aktualności"
-      url: "/news"
     - label: "<i class='fas fa-wrench'></i> Konkurs PUK"
       url: "/puk"
 excerpt: >
@@ -53,20 +51,3 @@ feature_row:
      
 ---
 {% include feature_row %}
-
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
-
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
-    {% include archive-single.html type=entries_layout %}
-  {% endfor %}
-</div>
-
-{% include paginator.html %}

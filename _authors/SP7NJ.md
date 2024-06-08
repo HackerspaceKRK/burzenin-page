@@ -1,5 +1,5 @@
 ---
 layout: author
-author: SP7NJ
+author: sp7nj
 title: ""
 ---

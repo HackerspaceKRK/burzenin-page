@@ -1,5 +1,5 @@
 ---
 layout: author
-author: SP5CGI
+author: sp5cgi
 title: ""
 ---

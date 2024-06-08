@@ -1,13 +1,17 @@
 ---
 title: HYDRA - TRX KF CW/SSB 3,5/7/14 MHz
 author: sp2fp
-tagline: Trzypasmowy TRX CW/SSB przygotowany w formie zestawu części do samodzielnego montażu.
+tagline: ""
 classes: wide
 header:
   overlay_image: /assets/images/puk/sp2fp_hydra.jpg
   overlay_filter: 0.5
   teaser: /assets/images/puk/sp2fp_hydra.jpg
 ---
+
+Trzypasmowy TRX CW/SSB przygotowany w formie zestawu części do samodzielnego montażu.
+
+Trx powstał na podstawie doświadczeń zdobytych podczas projektowania trxów "Kaefelek" oraz "Scorpion".
 
 ![alt](/assets/images/puk/sp2fp_hydra.jpg)
 {: .full}
@@ -46,7 +50,6 @@ header:
 e-mail: sp2fp (at)wp.pl tel.: 602 376 440
 
 ## Opis działania TRX HYDRA
-Trx powstał na podstawie doświadczeń zdobytych podczas projektowania trxów "Kaefelek" oraz "Scorpion".
 
 Jest to dość zaawansowana amatorska konstrukcja. Posiada rozdzielony tor odbiorczy i nadawczy dla wysokich częstotliwości i wspólny tor malej częstotliwości oraz modulator/demodulator na jednym układzie. Wzmocnienie toru odbiorczego realizowane jest na małej i dużej częstotliwości z czego: 45dB przypada na p.cz. 10MHz, a 65dB na m.cz. Część nadawcza to dość klasyczny układ zawierający: modulator, filtr kwarcowy, mieszacz, tor wzmacniacza w.cz. i końcówkę mocy z filtrami dolnoprzepustowymi. Wspólnym modułem jest układ kompresora dynamiki ssm2166, który w odbiorniku pełni rolę wzmacniacza z arw dla małej częstotliwości, a w nadajniku działa jako kompresor oraz limiter dźwięku. Konieczność przełączania wielu sygnałów N/O/CW/SSB skłoniła mnie do zastosowania 12 kluczy elektronicznych typu 3157. Efektem takiego przełączania jest szybka i bezgłośna praca. Jedynym mechanicznym przekaźnikiem działającym podczas N/O jest przekaźnik antenowy. Dochodzą jeszcze przekaźniki dla przełączania filtrów LPF i BPF ale one stukają tylko podczas zmiany pasma.
 

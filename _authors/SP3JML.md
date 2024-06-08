@@ -1,5 +1,5 @@
 ---
 layout: author
-author: SP3JML
+author: sp3jml
 title: ""
 ---

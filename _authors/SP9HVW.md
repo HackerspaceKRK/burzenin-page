@@ -1,5 +1,5 @@
 ---
 layout: author
-author: SP9HVW
+author: sp9hvw
 title: ""
 ---

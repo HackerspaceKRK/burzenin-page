@@ -1,5 +1,5 @@
 ---
 layout: author
-author: SP6MLF
+author: sp6mlf
 title: ""
 ---

@@ -1,5 +1,5 @@
 ---
 layout: author
-author: SP5BMP
+author: sp5bmp
 title: ""
 ---
