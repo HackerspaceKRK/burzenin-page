@@ -5,6 +5,7 @@ puk_year: 2018
 puk_place: 9
 author: sp6dlo
 tagline: ""
+layout: puk
 proofread: no
 classes: wide
 header:

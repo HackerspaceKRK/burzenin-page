@@ -5,6 +5,7 @@ puk_year: 2019
 puk_place: 13
 author: sp7nj
 tagline: ""
+layout: puk
 proofread: no
 classes: wide
 header:

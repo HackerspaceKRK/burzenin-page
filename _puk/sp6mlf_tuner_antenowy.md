@@ -5,6 +5,7 @@ puk_year: 2012
 puk_place: 7
 author: sp6mlf
 tagline: ""
+layout: puk
 proofread: no
 classes: wide
 header:

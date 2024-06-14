@@ -7,7 +7,7 @@ entries_layout: grid
 classes: wide
 ---
 
-<a href="/constructors" class="btn btn--info btn--large">Autorzy</a>
+<a href="/puk/constructors" class="btn btn--info btn--large">Autorzy</a>
 <a href="#" class="btn btn--info btn--large">Projekty</a>
 <a href="#" class="btn btn--info btn--large">Edycje</a>
 <a href="#" class="btn btn--info btn--large">Historia</a>

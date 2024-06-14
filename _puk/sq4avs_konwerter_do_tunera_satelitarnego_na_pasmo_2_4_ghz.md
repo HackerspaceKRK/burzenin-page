@@ -5,6 +5,7 @@ puk_year: 2017
 puk_place: 2
 author: sq4avs
 tagline: ""
+layout: puk
 proofread: no
 classes: wide
 header:

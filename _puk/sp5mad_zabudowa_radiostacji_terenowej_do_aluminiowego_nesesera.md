@@ -5,6 +5,7 @@ puk_year: 2016
 puk_place: 14
 author: sp5mad
 tagline: ""
+layout: puk
 proofread: no
 classes: wide
 header:

@@ -2,6 +2,7 @@
 title: VFO DDS z wyświetlaczem graficznym do transceivera wykonane z gotowych modułów z kodem open source
 author: sp9mrn
 classes: wide
+proofread: no
 layout: puk
 tagline: ''
 header:

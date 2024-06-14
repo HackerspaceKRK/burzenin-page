@@ -5,6 +5,7 @@ puk_year: 2019
 puk_place: 12
 author: sp3jml
 tagline: ""
+layout: puk
 proofread: no
 classes: wide
 header:

@@ -4,7 +4,9 @@ puk_category: D
 puk_year: 2019
 puk_nr: 20
 author: sq7hjb
+proofread: no
 tagline: ""
+layout: puk
 classes: wide
 header:
   overlay_image: /assets/images/puk/sq7hjb_us5msq.jpg

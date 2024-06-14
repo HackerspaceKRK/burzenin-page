@@ -5,6 +5,7 @@ puk_year: 2016
 puk_place: 1
 author: sp2fp
 tagline: ""
+layout: puk
 proofread: no
 classes: wide
 header:

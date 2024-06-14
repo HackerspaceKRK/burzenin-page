@@ -5,6 +5,7 @@ puk_year: 2014
 puk_place: 5
 author: sq8mfb
 tagline: ""
+layout: puk
 proofread: no
 classes: wide
 header:

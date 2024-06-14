@@ -5,6 +5,7 @@ puk_year: 2017
 puk_place: 12
 author: sp6fre
 tagline: ""
+layout: puk
 proofread: no
 classes: wide
 header:

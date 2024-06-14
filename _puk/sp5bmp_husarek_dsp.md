@@ -5,6 +5,7 @@ puk_year: 2016
 puk_place: 3
 author: sp5bmp
 tagline: ""
+layout: puk
 proofread: no
 classes: wide
 header:

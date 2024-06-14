@@ -4,6 +4,8 @@ puk_category: C
 puk_year: 2017
 author: sq9zaq
 tagline: ""
+proofread: no
+layout: puk
 classes: wide
 header:
   overlay_image: /assets/images/puk/sq9zaq_eu1ky.jpg

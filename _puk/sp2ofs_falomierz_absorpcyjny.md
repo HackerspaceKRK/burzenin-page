@@ -5,6 +5,7 @@ puk_year: 2019
 puk_place: 10
 author: sp2ofs
 tagline: ""
+layout: puk
 proofread: no
 classes: wide
 header:

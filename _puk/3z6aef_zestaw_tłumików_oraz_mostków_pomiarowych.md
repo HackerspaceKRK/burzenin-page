@@ -5,6 +5,7 @@ puk_year: 2010
 puk_place: 3
 author: 3z6aef
 tagline: ""
+layout: puk
 proofread: no
 classes: wide
 header:

@@ -5,6 +5,7 @@ puk_year: 2019
 puk_place: 15
 author: sq3mve
 tagline: ""
+layout: puk
 proofread: no
 classes: wide
 header:

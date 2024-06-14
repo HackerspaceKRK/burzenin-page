@@ -237,6 +237,7 @@ sq7bfs:
   name              : Waldemar
   callsign          : 3Z6AEF
   constructor       : yes
+  avatar            : "/assets/images/people/3z6aef.jpg"
   constructor_bio   : Radioamator konstruktor, zainteresowany głównie urządzeniami pomiarowymi. Współorganizator Zjazdów Technicznych, konkursów PUK od 2011 roku, członek i działacz PZK.
 
 ## end 3Z6AEF

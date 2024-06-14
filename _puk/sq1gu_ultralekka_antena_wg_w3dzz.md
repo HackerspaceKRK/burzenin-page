@@ -5,6 +5,7 @@ puk_year: 2019
 puk_place: 6
 author: sq1gu
 tagline: ""
+layout: puk
 proofread: no
 classes: wide
 header:

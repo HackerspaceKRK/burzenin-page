@@ -5,6 +5,8 @@ puk_year: 2013
 puk_nr: 12
 author: sq7hjb
 tagline: ""
+proofread: no
+layout: puk
 classes: wide
 header:
   overlay_image: /assets/images/puk/sq7hjb_cmeter.jpg

@@ -5,6 +5,7 @@ puk_year: 2013
 puk_place: 1
 author: sp5cgi
 tagline: ""
+layout: puk
 proofread: no
 classes: wide
 header:

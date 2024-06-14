@@ -5,6 +5,7 @@ puk_year: 2016
 puk_place: 16
 author: sq7bfs
 tagline: ""
+layout: puk
 proofread: no
 classes: wide
 header:

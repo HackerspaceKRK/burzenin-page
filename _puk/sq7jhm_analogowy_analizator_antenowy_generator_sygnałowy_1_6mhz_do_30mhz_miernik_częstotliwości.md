@@ -5,6 +5,7 @@ puk_year: 2011
 puk_place: 5
 author: sq7jhm
 tagline: ""
+layout: puk
 proofread: no
 classes: wide
 header:

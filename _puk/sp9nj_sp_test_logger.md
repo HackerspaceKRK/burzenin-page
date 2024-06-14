@@ -5,6 +5,7 @@ puk_year: 2015
 puk_place: 12
 author: sp9nj
 tagline: ""
+layout: puk
 proofread: no
 classes: wide
 header:

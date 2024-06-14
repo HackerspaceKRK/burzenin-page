@@ -5,6 +5,7 @@ puk_year: 2014
 puk_place: 2
 author: sp8hmz
 tagline: ""
+layout: puk
 proofread: no
 classes: wide
 header:

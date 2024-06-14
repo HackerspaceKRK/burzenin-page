@@ -5,6 +5,7 @@ puk_year: 2019
 puk_place: 9
 author: sp2fp
 tagline: ""
+layout: puk
 proofread: no
 classes: wide
 header:

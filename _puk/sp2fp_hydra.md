@@ -2,7 +2,9 @@
 title: HYDRA - TRX KF CW/SSB 3,5/7/14 MHz
 author: sp2fp
 tagline: ""
+layout: puk
 classes: wide
+proofread: no
 header:
   overlay_image: /assets/images/puk/sp2fp_hydra.jpg
   overlay_filter: 0.5

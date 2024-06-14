@@ -5,6 +5,7 @@ puk_year: 2017
 puk_place: 6
 author: sp2gya
 tagline: ""
+layout: puk
 proofread: no
 classes: wide
 header:

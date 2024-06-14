@@ -5,6 +5,7 @@ puk_year: 2018
 puk_place: 1
 author: sp8qep
 tagline: ""
+layout: puk
 proofread: no
 classes: wide
 header:

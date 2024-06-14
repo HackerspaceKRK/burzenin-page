@@ -5,6 +5,7 @@ puk_year: 2010
 puk_place: 2
 author: sp9lla
 tagline: ""
+layout: puk
 proofread: no
 classes: wide
 header:

@@ -1,3 +1,13 @@
 ---
 layout: single
 ---
+
+<img src="{{ page.header.overlay_image | relative_url }}" alt="{{ page.title }}" itemprop="image" class="u-photo">
+
+{% if page.proofread %}
+{% else %}
+	<p class="notice--warning"><strong>Uwaga!</strong> Ten tekst nie został jeszcze sprawdzony i upiększony. Jeśli już jest piękny i nie zawiera błędów, martwych linków i innego badziewia, dodaj <code class="language-plaintext highlighter-rouge">proofread: yes</code> do sekcji flag artykułu.</p>
+{% endif %}
+
+
+{{ content }}
