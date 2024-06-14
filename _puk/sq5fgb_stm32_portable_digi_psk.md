@@ -88,9 +88,9 @@ Przenośny modem do łączności emisją PSK
 
 #### Do pobrania
 
-[Opis konkursowy (plik pdf)](assets/data/download/SQ5FGB_Modem-PSK.pdf)
+[Opis konkursowy (plik pdf)](/assets/bin/SQ5FGB_Modem-PSK.pdf)
 {% include swiatradio.html on_page="02/2016 str. 47-48" %}
-[Instrukcja użytkowania (manual)](assets/data/download/SQ5FGB_Kodek-PSK31-manual.pdf)
+[Instrukcja użytkowania (manual)](/assets/bin/SQ5FGB_Kodek-PSK31-manual.pdf)
 
 
 

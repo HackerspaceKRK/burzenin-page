@@ -157,9 +157,9 @@ Szczegóły konstrukcji i sposób uruchomienia układu opisane sa w załączonyc
 
 #### Do pobrania
 
-[Opis konkursowy (plik pdf)](assets/data/download/SQ7OVV_Miernik-mocy-SWR-IK3OIL.pdf)
+[Opis konkursowy (plik pdf)](/assets/bin/SQ7OVV_Miernik-mocy-SWR-IK3OIL.pdf)
 
-[Autorski opis konstrukcji IK3OIL/IW3EGT (plik PDF, język angielski)](assets/data/download/SQ7OVV_IK3OIL-SWR-meter.pdf)
+[Autorski opis konstrukcji IK3OIL/IW3EGT (plik PDF, język angielski)](/assets/bin/SQ7OVV_IK3OIL-SWR-meter.pdf)
 
 
 

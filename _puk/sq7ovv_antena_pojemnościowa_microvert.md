@@ -131,7 +131,7 @@ Antenę można stroić poprzez zmianę długości rurki, zmianę indukcyjności 
 
 #### Do pobrania
 
-[Opis konkursowy (plik pdf)](assets/data/download/SQ7OVV_Antena-pojemnosciowa-microvert.pdf)
+[Opis konkursowy (plik pdf)](/assets/bin/SQ7OVV_Antena-pojemnosciowa-microvert.pdf)
 
 
 

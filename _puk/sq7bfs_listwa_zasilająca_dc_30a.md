@@ -76,7 +76,7 @@ Listwa zasilająca DC 30A
 
 #### Do pobrania
 
-[Opis konkursowy](assets/data/download/SQ7BFS_Listwa-DC-30A.pdf)
+[Opis konkursowy](/assets/bin/SQ7BFS_Listwa-DC-30A.pdf)
 
 
 

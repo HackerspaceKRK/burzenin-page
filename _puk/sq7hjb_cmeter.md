@@ -5,7 +5,7 @@ puk_year: 2013
 puk_nr: 12
 author: sq7hjb
 tagline: ""
-proofread: no
+proofread: yes
 layout: puk
 classes: wide
 header:
@@ -13,9 +13,6 @@ header:
   overlay_filter: 0.5
   teaser: /assets/images/puk/sq7hjb_cmeter.jpg
 ---
-
-![alt](/assets/images/puk/sq7hjb_cmeter.jpg)
-{: .full}
 
 ## Miernik pojemności
 

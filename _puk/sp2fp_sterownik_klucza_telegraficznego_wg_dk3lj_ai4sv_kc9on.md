@@ -9,20 +9,10 @@ layout: puk
 proofread: no
 classes: wide
 header:
-  overlay_image: /assets/images/puk/sp2fp_sterownik_klucza_telegraficznego_wg_dk3lj_ai4sv_kc9on.jpg
+  overlay_image: /assets/images/puk/dummy.jpg
   overlay_filter: 0.5
-  teaser: /assets/images/puk/sp2fp_sterownik_klucza_telegraficznego_wg_dk3lj_ai4sv_kc9on.jpg
+  teaser: /assets/images/puk/dummy.jpg
 ---
-
-
-
-
-
- 
-
-
-
-![](assets/data/img/projects/dummy-proj.jpg) 
 
 
 ![](assets/img/work-in-progress.jpg) 

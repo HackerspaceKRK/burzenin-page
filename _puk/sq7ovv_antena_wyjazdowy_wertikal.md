@@ -55,7 +55,7 @@ Pionowa antena na wyjazdy w teren
 
 #### Do pobrania
 
-###### [Opis konkursowy (plik pdf)](assets/data/download/SQ7OVV_Antena-vertical-wyjazdowy.pdf)
+###### [Opis konkursowy (plik pdf)](/assets/bin/SQ7OVV_Antena-vertical-wyjazdowy.pdf)
 
 
 

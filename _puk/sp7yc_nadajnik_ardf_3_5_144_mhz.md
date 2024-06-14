@@ -194,9 +194,9 @@ Program procesora napisany jest w BASCOMIE.
 
 #### Do pobrania
 
-[Projekt PCB w Sprint Layout (plik .lay)](assets/data/download/SP7YC_Nadajnik-ARDF.lay)
+[Projekt PCB w Sprint Layout (plik .lay)](/assets/bin/SP7YC_Nadajnik-ARDF.lay)
 
-[Mozaika PCB do termotransferu (plik pdf)](assets/data/download/SP7YC_Nadajnik-ARDF_PCB.pdf)
+[Mozaika PCB do termotransferu (plik pdf)](/assets/bin/SP7YC_Nadajnik-ARDF_PCB.pdf)
 
 
 

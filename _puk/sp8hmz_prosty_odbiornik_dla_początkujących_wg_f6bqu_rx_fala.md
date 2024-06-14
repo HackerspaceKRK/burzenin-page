@@ -121,7 +121,7 @@ header:
 
 #### Do pobrania
 
-[Opis konkursowy (plik pdf)](assets/data/download/SP8HMZ_RX-Fala.pdf)
+[Opis konkursowy (plik pdf)](/assets/bin/SP8HMZ_RX-Fala.pdf)
 
 
 

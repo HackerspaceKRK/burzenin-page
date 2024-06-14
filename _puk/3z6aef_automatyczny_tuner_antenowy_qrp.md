@@ -6,7 +6,7 @@ puk_place: 2
 author: 3z6aef
 tagline: ""
 layout: puk
-proofread: no
+proofread: yes
 classes: wide
 header:
   overlay_image: /assets/images/puk/3z6aef_automatyczny_tuner_antenowy_qrp.jpg
@@ -58,15 +58,12 @@ Układ pomiarowy napięć fali padającej i odbitej składa się z dwutransforma
 Dyskusja wybranych rozwiązań, sposób montażu, uruchomienia, użytkowania i obsługi zawiera opis konkursowy (plik pdf w sekcji "Do pobrania")
 
 UWAGA. Kolejne wersje (B i C) tinyAAT z dodatkowymi funkcjonalnościami powstały w latach 2012-2013, ale nie były nigdzie publikowane. Autor obiecał publikację na swojej stronie internetowej... Poczekamy, zobaczymy... :-/
-
-
-
  
 #### Do pobrania
 
-[3Z6AEF tinyAAT - opis konkursowy (plik pdf)](assets/data/download/3Z6AEF_tinyAAT.pdf)
-[tinyAAT - plik .hex dla programatora](assets/data/download/tinyAAT.hex)
-[Swiat Radio - 11/2011 str. 47-49](http://www.swiatradio.com.pl/virtual/modules.php?name=Downloads&d_op=getit&lid=42)
+- [3Z6AEF tinyAAT - opis konkursowy (plik pdf)](/assets/bin/3Z6AEF_tinyAAT.pdf)
+- [tinyAAT - plik .hex dla programatora](/assets/bin/tinyAAT.hex)
+- [Swiat Radio - 11/2011 str. 47-49](http://www.swiatradio.com.pl/virtual/modules.php?name=Downloads&d_op=getit&lid=42)
 
 #### Opis w "Świat Radio"
 

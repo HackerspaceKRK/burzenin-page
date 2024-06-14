@@ -82,7 +82,7 @@ Aplikacja QSLbiuroMVE
 
 #### Do pobrania
 
-###### [Opis konkursowy - dokumentacja programu (plik pdf)](assets/data/download/SP3MVE_QSLbiuroMVE.pdf)
+###### [Opis konkursowy - dokumentacja programu (plik pdf)](/assets/bin/SP3MVE_QSLbiuroMVE.pdf)
 
 
 

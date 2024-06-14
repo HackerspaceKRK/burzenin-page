@@ -115,7 +115,7 @@ Schematy modułów pokazane są na rysunkach 4, 5 i 6.
 
 #### Do pobrania
 
-[Dokumentacja projektu - opis konkursowy (plik pdf)](assets/data/download/SP6FRE_Kontroler-anteny-magnetycznej.pdf)
+[Dokumentacja projektu - opis konkursowy (plik pdf)](/assets/bin/SP6FRE_Kontroler-anteny-magnetycznej.pdf)
 
 
 

@@ -108,7 +108,7 @@ jako przebieg mierzonego parametru w funkcji częstotliwości.
  
 #### Do pobrania
 
-[Opis konkursowy (plik pdf)](assets/data/download/SP6FRE_Analizator-NA01.pdf)
+[Opis konkursowy (plik pdf)](/assets/bin/SP6FRE_Analizator-NA01.pdf)
 
 
 

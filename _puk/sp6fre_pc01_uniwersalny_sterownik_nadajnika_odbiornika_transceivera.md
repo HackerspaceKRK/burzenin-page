@@ -95,7 +95,7 @@ Pełny opis w załączonej dokumentacji i na stronie internetowej SP6FRE.
 
 {% include swiatradio.html on_page="09/2018 str. 46-50 (cz. 1), 10/2018 str. 42-43 (cz. 2)" %}
 
-[Dokumentacja PC-01 - opis konkursowy (plik pdf)](assets/data/download/SP6FRE_Sterownik PC01.pdf)
+[Dokumentacja PC-01 - opis konkursowy (plik pdf)](/assets/bin/SP6FRE_Sterownik PC01.pdf)
 
 
 

@@ -71,7 +71,7 @@ Antena magnetyczna KF
 
 #### Do pobrania
 
-[Opis konkursowy anteny SP5MAD](assets/data/download/SP5MAD_Antena-magnetyczna-13.5-26-MHz.pdf)
+[Opis konkursowy anteny SP5MAD](/assets/bin/SP5MAD_Antena-magnetyczna-13.5-26-MHz.pdf)
 
 
 {% include swiatradio.html on_page="02/2013 str. 46" %}

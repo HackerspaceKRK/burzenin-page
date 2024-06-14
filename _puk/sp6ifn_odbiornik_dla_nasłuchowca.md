@@ -38,12 +38,12 @@ MiniMax SWL - odbiornik dla nasłuchowca
 
 
 
- alt : [MiniMax SWL](assets/data/download/SP6IFN_Mini-Max_v03rx.pdf)
+ alt : [MiniMax SWL](/assets/bin/SP6IFN_Mini-Max_v03rx.pdf)
 
  
 #### Do pobrania
 
-[Opis konkursowy (plik pdf)](assets/data/download/SP6IFN_Mini-Max_v03rx.pdf)
+[Opis konkursowy (plik pdf)](/assets/bin/SP6IFN_Mini-Max_v03rx.pdf)
 
 
 

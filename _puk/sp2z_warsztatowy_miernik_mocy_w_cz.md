@@ -143,7 +143,7 @@ Ten sam przycisk, wciśnięty w momencie prezentacji ekranu startowego, pozwala 
 
 #### Do pobrania
 
-[SP2Z PowerMeter (plik pdf)](assets/data/download/SP2Z_PowerMeter.pdf)
+[SP2Z PowerMeter (plik pdf)](/assets/bin/SP2Z_PowerMeter.pdf)
 
 
 

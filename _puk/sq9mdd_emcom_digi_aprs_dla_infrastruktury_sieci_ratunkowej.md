@@ -158,7 +158,7 @@ Diagram przepływu danych pokazano na rysunku 3.
 
 #### Do pobrania
 
-[Opis konkursowy (plik pdf)](assets/data/download/SQ9MDD_emcom-digi-aprs.pdf)
+[Opis konkursowy (plik pdf)](/assets/bin/SQ9MDD_emcom-digi-aprs.pdf)
 
 
 

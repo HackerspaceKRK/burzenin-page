@@ -57,7 +57,7 @@ Wzmacniacz mocy Husarek PA-200
 
 #### Do pobrania
 
-[Opis konkursowy PA-200 (v.7.1 plik pdf)](assets/data/download/SP4LVC_PA-200-v.7.1.pdf)
+[Opis konkursowy PA-200 (v.7.1 plik pdf)](/assets/bin/SP4LVC_PA-200-v.7.1.pdf)
 
 
 

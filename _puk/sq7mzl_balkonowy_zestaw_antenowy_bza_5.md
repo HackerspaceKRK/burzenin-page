@@ -53,7 +53,7 @@ Balkonowy zestaw antenowy BZA-5
  
 #### Do pobrania
 
-{% include swiatradio.html on_page="01/2015 str. 50-51" %}lik pdf)](assets/data/download/SQ7MZL_Balkonowy-zestaw-antenowy.pdf)
+{% include swiatradio.html on_page="01/2015 str. 50-51" %}lik pdf)](/assets/bin/SQ7MZL_Balkonowy-zestaw-antenowy.pdf)
 
 
 

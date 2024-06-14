@@ -2,7 +2,7 @@
 title: VFO DDS z wyświetlaczem graficznym do transceivera wykonane z gotowych modułów z kodem open source
 author: sp9mrn
 classes: wide
-proofread: no
+proofread: yes
 layout: puk
 tagline: ''
 header:
@@ -10,9 +10,6 @@ header:
   overlay_filter: 0.5
   teaser: /assets/images/puk/sp9mrn_vfo_dds.jpg
 ---
-
-![alt](/assets/images/puk/sp9mrn_vfo_dds.jpg)
-{: .full}
 
 ## VFO DSS z gotowych modułów
 Podstawowym założeniem projektu było wykonanie taniego i powtarzalnego VFO do samodzielnie konstruowanych transceiverów. Początkowo miało to być urządzenie jednopasmowe, w którym można samodzielnie skonfigurować zakresy przestrajania i częstotliwość pośrednią, jednak w trakcie pisania okazało się, że bez większych problemów można wykonać generator na wszystkie pasma. Urządzenie zostało wyposażone w system CAT odpowiadający standardowi CI-V firmy ICOM. Do współpracy z komputerem nie jest potrzebny żaden dodatkowy interface, ponieważ Arduino Nano będące sercem urządzenia posiada wbudowany port USB.

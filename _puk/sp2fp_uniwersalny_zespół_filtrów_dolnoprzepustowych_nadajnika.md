@@ -9,20 +9,11 @@ layout: puk
 proofread: no
 classes: wide
 header:
-  overlay_image: /assets/images/puk/sp2fp_uniwersalny_zespół_filtrów_dolnoprzepustowych_nadajnika.jpg
+  overlay_image: /assets/images/puk/dummy.jpg
   overlay_filter: 0.5
-  teaser: /assets/images/puk/sp2fp_uniwersalny_zespół_filtrów_dolnoprzepustowych_nadajnika.jpg
+  teaser: /assets/images/puk/dummy.jpg
 ---
 
-
-
-
-
- 
-
-
-
-![](assets/data/img/projects/dummy-proj.jpg) 
 
 
 ![](assets/img/work-in-progress.jpg) 

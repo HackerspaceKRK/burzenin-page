@@ -93,7 +93,7 @@ sterujących z 3 do 6, gniazdo "reset" oraz gniazdo dla opcjonalnego interfejsu 
 
 #### Do pobrania
 
-[Opis konkursowy (plik pdf)](assets/data/download/SQ9MDD_Sterownik-DTMF-v.1.1.pdf)
+[Opis konkursowy (plik pdf)](/assets/bin/SQ9MDD_Sterownik-DTMF-v.1.1.pdf)
 
 
 

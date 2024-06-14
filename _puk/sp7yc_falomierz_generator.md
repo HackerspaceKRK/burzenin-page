@@ -218,7 +218,7 @@ baterii i zasilacza zewnętrznego.
 
 #### Do pobrania
 
-[Wzór płytki drukowanej do termotrasferu (plik PDF)](assets/data/download/SP7YC_PCB-falomierz-generator.pdf)
+[Wzór płytki drukowanej do termotrasferu (plik PDF)](/assets/bin/SP7YC_PCB-falomierz-generator.pdf)
 
 
 

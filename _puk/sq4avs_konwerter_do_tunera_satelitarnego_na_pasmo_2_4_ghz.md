@@ -119,7 +119,7 @@ Konwerter TV-SAT do odbioru ATV w paśmie 13cm
 
 #### Do pobrania
 
-[Projekt PCB w Sprint Layout (plik .LAY)](assets/data/download/SQ4AVS_Konwerter-ATV.lay6)
+[Projekt PCB w Sprint Layout (plik .LAY)](/assets/bin/SQ4AVS_Konwerter-ATV.lay6)
 
 
 

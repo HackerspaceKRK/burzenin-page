@@ -132,7 +132,7 @@ Płytka przyłączeniowa to po prostu kawałek płyty izolacyjnej z zamontowanym
 
 #### Do pobrania
 
-[Opis konkursowy (plik pdf)](assets/data/download/SQ7OVV_Antena-4-pasmowa-minivert.pdf)
+[Opis konkursowy (plik pdf)](/assets/bin/SQ7OVV_Antena-4-pasmowa-minivert.pdf)
 
 
 

@@ -103,7 +103,7 @@ Kontroler przemiennika
 
 #### Do pobrania
 
-[Opis konkursowy (plik pdf)](assets/data/download/SQ1GU_Kontroler-przemiennika-v.3.pdf)
+[Opis konkursowy (plik pdf)](/assets/bin/SQ1GU_Kontroler-przemiennika-v.3.pdf)
 
 {% include swiatradio.html on_page="02/2015 str. 48-49" %}
 

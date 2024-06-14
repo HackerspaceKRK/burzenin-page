@@ -170,9 +170,9 @@ Pomiar rezonansu obwodów LC zbudowany jest na zastępczym układzie diody Lambd
  
 #### Do pobrania
 
-[Opis konkursowy miernika FCLG (plik .PDF)](assets/data/download/SP7YC_FCLG-meter.pdf)
+[Opis konkursowy miernika FCLG (plik .PDF)](/assets/bin/SP7YC_FCLG-meter.pdf)
 
-[Program dla mikroprocesora (ver.2.5 - plik .HEX)](assets/data/download/SP7YC_lcfg2.5auto.hex)
+[Program dla mikroprocesora (ver.2.5 - plik .HEX)](/assets/bin/SP7YC_lcfg2.5auto.hex)
 
 
 

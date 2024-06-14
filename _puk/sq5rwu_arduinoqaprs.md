@@ -83,7 +83,7 @@ przez Fundację Wolnego Oprogramowania, według wersji 2 tej Licencji lub
 
 #### Do pobrania
 
-[Dokumentacja biblioteki ArduinoQAPRS - opis konkursowy (plik pdf)](assets/data/download/SQ5RWU_ArduinoQAPRS.pdf)
+[Dokumentacja biblioteki ArduinoQAPRS - opis konkursowy (plik pdf)](/assets/bin/SQ5RWU_ArduinoQAPRS.pdf)
 
 
 

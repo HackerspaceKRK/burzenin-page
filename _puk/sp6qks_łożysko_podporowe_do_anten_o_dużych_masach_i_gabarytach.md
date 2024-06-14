@@ -9,20 +9,10 @@ layout: puk
 proofread: no
 classes: wide
 header:
-  overlay_image: /assets/images/puk/sp6qks_łożysko_podporowe_do_anten_o_dużych_masach_i_gabarytach.jpg
+  overlay_image: /assets/images/puk/dummy.jpg
   overlay_filter: 0.5
-  teaser: /assets/images/puk/sp6qks_łożysko_podporowe_do_anten_o_dużych_masach_i_gabarytach.jpg
+  teaser: /assets/images/puk/dummy.jpg
 ---
-
-
-
-
-
- 
-
-
-
-![](assets/data/img/projects/dummy-proj.jpg) 
 
 
 ![](assets/img/work-in-progress.jpg) 

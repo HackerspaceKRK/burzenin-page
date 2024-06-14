@@ -53,7 +53,7 @@ TRX QRP
 
 #### Do pobrania
 
-[Opis konkursowy (plik pdf)](assets/data/download/SQ8MBF_TRX-QRP.pdf)
+[Opis konkursowy (plik pdf)](/assets/bin/SQ8MBF_TRX-QRP.pdf)
 {% include swiatradio.html on_page="01/2015 str. 49" %}
 
 

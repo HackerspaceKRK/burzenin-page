@@ -83,7 +83,7 @@ Więcej informacji na stronie internetowej SP2FP i w załączonym opisie konkurs
 
 #### Do pobrania
 
-[Opis konkursowy (plik pdf)](assets/data/download/SP2FP_TRX-Kaefelek.pdf)
+[Opis konkursowy (plik pdf)](/assets/bin/SP2FP_TRX-Kaefelek.pdf)
 
 
 

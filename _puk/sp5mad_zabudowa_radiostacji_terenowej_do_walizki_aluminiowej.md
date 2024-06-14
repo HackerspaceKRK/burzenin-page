@@ -9,20 +9,11 @@ layout: puk
 proofread: no
 classes: wide
 header:
-  overlay_image: /assets/images/puk/sp5mad_zabudowa_radiostacji_terenowej_do_walizki_aluminiowej.jpg
+  overlay_image: /assets/images/puk/dummy.jpg
   overlay_filter: 0.5
-  teaser: /assets/images/puk/sp5mad_zabudowa_radiostacji_terenowej_do_walizki_aluminiowej.jpg
+  teaser: /assets/images/puk/dummy.jpg
 ---
 
-
-
-
-
- 
-
-
-
-![](assets/data/img/projects/dummy-proj.jpg) 
 
 
 

@@ -69,7 +69,7 @@ wynosi od 1,4 do 72 MHz.
 
 #### Do pobrania
 
-["Falomierz-generator w.cz. (TDO)" - artykuł SP5AHT w EdW 7/1996](assets/data/download/EdW-7-1996_GeneratorTDO.pdf)
+["Falomierz-generator w.cz. (TDO)" - artykuł SP5AHT w EdW 7/1996](/assets/bin/EdW-7-1996_GeneratorTDO.pdf)
 [12/2010 str. 58](http://www.swiatradio.com.pl/virtual/modules.php?name=Downloads&d_op=getit&lid=31)
 
 

@@ -85,7 +85,7 @@ Mikroprocesorowy miernik SWR i mocy
 {% include swiatradio.html on_page="04/2014 str. 51-52" %}
 #### Do pobrania
 
-[Program sterujący mikroprocesora w języku BASCOM (plik .BAS)](assets/data/download/SQ7JHM_Miernik-SWR-i-mocy_program-BASCOM.bas)
+[Program sterujący mikroprocesora w języku BASCOM (plik .BAS)](/assets/bin/SQ7JHM_Miernik-SWR-i-mocy_program-BASCOM.bas)
 
 
 

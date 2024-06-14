@@ -132,7 +132,7 @@ Szczegóły konstrukcji i przeprowadzone pomiary przedstawione są w załączony
 
 #### Do pobrania
 
-[Opis konkursowy (plik pdf)](assets/data/download/SQ6RGK_AntenaQRPdoSOTA.pdf)
+[Opis konkursowy (plik pdf)](/assets/bin/SQ6RGK_AntenaQRPdoSOTA.pdf)
 
 
 

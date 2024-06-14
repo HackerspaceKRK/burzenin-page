@@ -4,7 +4,7 @@ author: sp2fp
 tagline: ""
 layout: puk
 classes: wide
-proofread: no
+proofread: yes
 header:
   overlay_image: /assets/images/puk/sp2fp_hydra.jpg
   overlay_filter: 0.5
@@ -14,9 +14,6 @@ header:
 Trzypasmowy TRX CW/SSB przygotowany w formie zestawu części do samodzielnego montażu.
 
 Trx powstał na podstawie doświadczeń zdobytych podczas projektowania trxów "Kaefelek" oraz "Scorpion".
-
-![alt](/assets/images/puk/sp2fp_hydra.jpg)
-{: .full}
 
 ## Parametry urządzenia
 - Pasma pracy 80/40/20

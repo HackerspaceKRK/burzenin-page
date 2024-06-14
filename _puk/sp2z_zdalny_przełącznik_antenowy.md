@@ -102,7 +102,7 @@ Zdalny przełącznik antenowy
 
 #### Do pobrania
 
-[Opis konkursowy projektu (plik pdf)](assets/data/download/SP2Z_ZdalnyPrzelacznikAntenowy.pdf)
+[Opis konkursowy projektu (plik pdf)](/assets/bin/SP2Z_ZdalnyPrzelacznikAntenowy.pdf)
 
 
 

@@ -257,7 +257,7 @@ EEPROM.
 
 #### Do pobrania
 
-[Opis konkursowy (plik pdf)](assets/data/download/SQ5RWU_QAPRSTracker.pdf)
+[Opis konkursowy (plik pdf)](/assets/bin/SQ5RWU_QAPRSTracker.pdf)
 
 
 

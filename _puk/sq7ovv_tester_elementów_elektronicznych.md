@@ -206,9 +206,9 @@ się też czasem płytka stykowa do pomiaru elementów SMD.
  
 #### Do pobrania
 
-[Instrukcja montażu testera - wersja 2.02 (plik pdf)](assets/data/download/SQ7OVV_Tester-instrukcja-montazu-v.2.02.pdf)
+[Instrukcja montażu testera - wersja 2.02 (plik pdf)](/assets/bin/SQ7OVV_Tester-instrukcja-montazu-v.2.02.pdf)
 
-[Instrukcja obsługi testera (plik pdf)](assets/data/download/SQ7OVV_TESTER-Manual.pdf)
+[Instrukcja obsługi testera (plik pdf)](/assets/bin/SQ7OVV_TESTER-Manual.pdf)
 
 
 

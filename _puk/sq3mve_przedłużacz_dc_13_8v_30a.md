@@ -120,7 +120,7 @@ korzystam z urządzeń QRP podczas terenowych wypadów.
 
 #### Do pobrania
 
-###### [Opis konkursowy (plik pdf)](assets/data/download/SQ3MVE_Przedluzacz-13.8V.pdf)
+###### [Opis konkursowy (plik pdf)](/assets/bin/SQ3MVE_Przedluzacz-13.8V.pdf)
 
 
 

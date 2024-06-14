@@ -188,9 +188,9 @@ Kondensator ten powinien znajdować się blisko wyprowadzeń mikroprocesora.
 
 #### Do pobrania
 
-[Opis konkursowy (plik PDF)](assets/data/download/SP7YC_Trenazer-Morsea.pdf)
+[Opis konkursowy (plik PDF)](/assets/bin/SP7YC_Trenazer-Morsea.pdf)
 
-[Wzór PCB do termotranferu (plik PDF)](assets/data/download/SP7YC_PCB-trenazer-Morsea.pdf)
+[Wzór PCB do termotranferu (plik PDF)](/assets/bin/SP7YC_PCB-trenazer-Morsea.pdf)
 
 
 

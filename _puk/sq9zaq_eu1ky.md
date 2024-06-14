@@ -4,7 +4,7 @@ puk_category: C
 puk_year: 2017
 author: sq9zaq
 tagline: ""
-proofread: no
+proofread: yes
 layout: puk
 classes: wide
 header:
@@ -12,9 +12,6 @@ header:
   overlay_filter: 0.5
   teaser: /assets/images/puk/sq9zaq_eu1ky.jpg
 ---
-
-![alt](/assets/images/puk/sq9zaq_eu1ky.jpg)
-{: .full}
 
 Realizacja analizatora antenowego według popularnego układu EU1KY. Uniwersalny moduł DISCOVERY stosowany jest w wielu konstrukcjach, m.in. w rodzimym opracowaniu HUSAREK DSP.
 

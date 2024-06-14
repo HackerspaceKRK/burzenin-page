@@ -224,7 +224,7 @@ Pod tranzystory Q7,Q8 zastosowano podkładkę miedzianą o grubośći 2mm i wymi
 
 #### Do pobrania
 
-[Opis konkursowy (plik pdf)](assets/data/download/SP9HVW_PA-HF-100W.pdf)
+[Opis konkursowy (plik pdf)](/assets/bin/SP9HVW_PA-HF-100W.pdf)
 
 
 

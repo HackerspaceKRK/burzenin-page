@@ -158,7 +158,7 @@ pomiarowe.
 
 #### Do pobrania
 
-[Opis konkursowy miniwoltomierza SQ3NQJ](assets/data/download/SQ3NQJ_miniwoltomierz.pdf)
+[Opis konkursowy miniwoltomierza SQ3NQJ](/assets/bin/SQ3NQJ_miniwoltomierz.pdf)
 
 
 

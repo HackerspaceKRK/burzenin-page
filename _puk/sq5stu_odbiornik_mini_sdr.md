@@ -159,7 +159,7 @@ konwerter poziomów pozwalający na użycie tych popularnych układów.
 
 #### Do pobrania
 
-[Opis konkursowy (plik pdf)](assets/data/download/SQ5STU_Mini-SDR.pdf)
+[Opis konkursowy (plik pdf)](/assets/bin/SQ5STU_Mini-SDR.pdf)
 
 
 

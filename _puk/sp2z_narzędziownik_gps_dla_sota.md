@@ -99,7 +99,7 @@ Dane wyświetlane są na wyświetlaczu OLED, który znakomicie sprawdza się prz
 
 #### Do pobrania
 
-[Opis konkursowy projektu (plik pdf)](assets/data/download/SP2Z_NarzedziownikGPS.pdf)
+[Opis konkursowy projektu (plik pdf)](/assets/bin/SP2Z_NarzedziownikGPS.pdf)
 
 
 

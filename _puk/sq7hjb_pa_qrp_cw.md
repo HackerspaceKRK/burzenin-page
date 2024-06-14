@@ -5,7 +5,7 @@ puk_year: 2013
 puk_nr: 7
 author: sq7hjb
 tagline: ""
-proofread: no
+proofread: yes
 layout: puk
 classes: wide
 header:
@@ -13,9 +13,6 @@ header:
   overlay_filter: 0.5
   teaser: /assets/images/puk/sq7hjb_pa_qrp_cw.jpg
 ---
-
-![alt](/assets/images/puk/sq7hjb_pa_qrp_cw.jpg)
-{: .full}
 
 PA QRP CW na pasmo 40m
 Prezentowany nadajnik małej mocy zbudowany został z przeznaczeniem dla pasma 7 MHz i pracy emisją CW QRSS (wolna telegrafia)

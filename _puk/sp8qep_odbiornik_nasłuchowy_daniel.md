@@ -181,11 +181,11 @@ Część cyfrowa zasilana jest poprzez oddzielny stabilizator LM1117-5.
 
 #### Do pobrania
 
-[RX "Daniel" - instrukcja montażu](assets/data/download/SP8QEP_RX-DANIEL-instrukcja.pdf)
+[RX "Daniel" - instrukcja montażu](/assets/bin/SP8QEP_RX-DANIEL-instrukcja.pdf)
 
-[RX "Daniel" - oprogramowanie dla pasma 80m](assets/data/download/SP8QEP_RX-DANIEL-v174_80m.zip)
+[RX "Daniel" - oprogramowanie dla pasma 80m](/assets/bin/SP8QEP_RX-DANIEL-v174_80m.zip)
 
-[RX "Daniel" - oprogramowanie dla pasma 20m](assets/data/download/SP8QEP_RX-DANIEL-v174_20m.zip)
+[RX "Daniel" - oprogramowanie dla pasma 20m](/assets/bin/SP8QEP_RX-DANIEL-v174_20m.zip)
 
 
 

@@ -69,7 +69,7 @@ przełącznika antenowego.
 
 #### Do pobrania
 
-###### [Opis konkursowy - dokumentacja (plik pdf)](assets/data/download/SP3MVE_Sterownik-przelacznika-antenowego.pdf)
+###### [Opis konkursowy - dokumentacja (plik pdf)](/assets/bin/SP3MVE_Sterownik-przelacznika-antenowego.pdf)
 
 
 

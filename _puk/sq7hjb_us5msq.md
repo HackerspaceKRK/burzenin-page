@@ -14,9 +14,6 @@ header:
   teaser: /assets/images/puk/sq7hjb_us5msq.jpg
 ---
 
-![alt](/assets/images/puk/sq7hjb_us5msq.jpg)
-{: .full}
-
 Projekt płyty głównej (PCB) transceivera wg US5MSQ. Niewielkie zmiany w oryginalnej konstrukcji. Na tej płytce zbudowano kilka TRX-ów US5MSQ w klubie SP7PB.
 
 - [Opis projektu płytki na stronie SQ7HJB](http://sq7hjb.pl/index.php/trx-homodynowy-w-g-us5msq/)

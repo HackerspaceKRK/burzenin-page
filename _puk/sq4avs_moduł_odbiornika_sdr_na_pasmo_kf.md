@@ -123,7 +123,7 @@ Odbiornik SDR na pasma krótkofalowe
 
 #### Do pobrania
 
-[Schemat odbiornika SDR (plik pdf)](assets/data/download/SQ4AVS_SDR-schemat.pdf)
+[Schemat odbiornika SDR (plik pdf)](/assets/bin/SQ4AVS_SDR-schemat.pdf)
 
 
 

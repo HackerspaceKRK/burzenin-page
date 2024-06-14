@@ -165,7 +165,7 @@ Zasilanie płytki: od 10V do 15V, wymiary: 70x120 mm.
 
 #### Do pobrania
 
-[Schemat elektryczny płytki (plik PDF)](assets/data/download/SP7NJR_1-500MHz.pdf)
+[Schemat elektryczny płytki (plik PDF)](/assets/bin/SP7NJR_1-500MHz.pdf)
 
 
 

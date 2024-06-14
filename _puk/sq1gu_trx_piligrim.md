@@ -92,7 +92,7 @@ pasmami nic nie było słychać. Przy testach w Burzeninie sąsiada nadającego 
 
 #### Do pobrania
 
-###### [Opis źródłowy Piligrim SMD SP5JPB](assets/data/download/http://sp-hm.pl/attachment.php?aid=4696)
+###### [Opis źródłowy Piligrim SMD SP5JPB](/assets/bin/http://sp-hm.pl/attachment.php?aid=4696)
 
 
 

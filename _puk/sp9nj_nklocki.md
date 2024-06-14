@@ -9,21 +9,10 @@ layout: puk
 proofread: no
 classes: wide
 header:
-  overlay_image: /assets/images/puk/sp9nj_nklocki.jpg
+  overlay_image: /assets/images/puk/dummy.jpg
   overlay_filter: 0.5
-  teaser: /assets/images/puk/sp9nj_nklocki.jpg
+  teaser: /assets/images/puk/dummy.jpg
 ---
-
-
-
-
-
- 
-
-
-
-![](assets/data/img/projects/dummy-proj.jpg) 
-
 
 ![](assets/img/work-in-progress.jpg) 
 

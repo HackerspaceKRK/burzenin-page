@@ -155,7 +155,7 @@ i uruchamiania.
 
 #### Do pobrania
 
-[Opis konkursowy (plik pdf)](assets/data/download/SQ6DGT_Radio3.pdf)
+[Opis konkursowy (plik pdf)](/assets/bin/SQ6DGT_Radio3.pdf)
 
 
 
