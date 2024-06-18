@@ -6,7 +6,7 @@ puk_place: 17
 author: sp2fp
 tagline: ""
 layout: puk
-proofread: no
+proofread: yes
 classes: wide
 header:
   overlay_image: /assets/images/puk/dummy.jpg
@@ -14,16 +14,10 @@ header:
   teaser: /assets/images/puk/dummy.jpg
 ---
 
-
-![](assets/img/work-in-progress.jpg) 
-
-
-#### Odnośniki
+Odnośniki
+---------------------
 
 [Opis sterownika klucza na stronie SP2FP](http://www.profimot.pl/sp2fp/keyer_attiny85/Keyerattiny85.html)
-
- 
-
 
 
 {% include swiatradio.html on_page="03/2020 str. 48-50" %}
