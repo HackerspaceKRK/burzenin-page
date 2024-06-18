@@ -32,6 +32,22 @@ sq9zaq:
       icon: "fas fa-fw fa-book"
       url: "https://www.qrz.com/db/sq9zaq"
 
+sp3htf:
+  name            : "Rafał"
+  first_name      : "Rafał"
+  # constructor_bio : ""
+  bio             : "Człowiek od nagłośnienia i technikaliów - żebyście widzieli i słyszeli"
+  callsign        : SP3HTF
+  zjazd_orga      : yes
+
+sp3nyr:
+  name            : "Waldemar"
+  first_name      : "Waldemar"
+  # constructor_bio : ""
+  bio             : "Konstruktor wielu talentów, często prowadzący warsztaty senior"
+  callsign        : SP3NYR
+  zjazd_orga      : yes
+
 sp7ukl:
   name            : "Cezary Libert"
   first_name      : "Czarek"
