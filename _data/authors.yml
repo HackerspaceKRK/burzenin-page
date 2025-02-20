@@ -195,6 +195,7 @@ sq7jhm:
 sp2gya:
   name              : Grzegorz
   callsign          : SP2GYA
+  sk                : yes
   constructor       : yes
   speaker         : yes
   authorpage        :  "/authors/sp2gya"
