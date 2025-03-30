@@ -1,0 +1,15 @@
+{% if include.stilltesting %}
+<div style="margin: 0 auto; width: 100%; max-width: 600px; padding: 15px; background-color: #fff8e5; border: 2px solid #ffd700; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+	<div style="text-align: center; font-size: 24px; font-weight: bold; color: #cc9900;">Uwaga: Tryb Testowy</div>
+	<div style="text-align: center; font-size: 16px; color: #996600; margin-top: 10px;">System do sprzedaży biletów jest obecnie w trybie testowym. Sprzedaż jeszcze się nie rozpoczęła, a zamówione poniżej bilety zostaną usunięte.</div>
+</div>
+{% endif %}
+
+<pretix-widget event="https://tickets.hackerspace-krk.pl/burzenin2025/" categories="{{ include.categories }}" single-item-select="button" disable-vouchers></pretix-widget>
+<noscript>
+   <div class="pretix-widget">
+        <div class="pretix-widget-info-message">
+            JavaScript jest wyłączony w przeglądarce. Aby uzyskać dostęp do naszego sklepu z biletami bez JavaScript, prosimy <a target="_blank" rel="noopener" href="https://tickets.hackerspace-krk.pl/burzenin2025/">kliknąć tutaj</a>.
+        </div>
+    </div>
+</noscript>

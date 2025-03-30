@@ -9,6 +9,11 @@ excerpt: >
 header:
   overlay_image: /assets/images/wiata.jpg
   overlay_filter: 0.5
+  actions:
+    - label: "<i class='fas fa-home'></i> O miejscu"
+      url: "/venue"
+    - label: "<i class='fas fa-bed'></i> Zakwaterowanie"
+      url: "/zakwaterowanie"
 gallery1:
   - url: /assets/images/pawilony.jpg
     image_path: /assets/images/thumbs/pawilony.jpg
@@ -39,7 +44,7 @@ Ośrodek „SPORTOWA OSADA” to malowniczo położony kompleks w sercu natury, 
 
 {% include gallery id="gallery1" %}
 
-- **Zakwaterowanie:** Ośrodek „SPORTOWA OSADA” oferuje komfortowe pokoje w widocznych na zdjęciach trzech budynkach oraz domki letniskowe typu "Brda" dla uczestników zjazdu. Rezerwacja miejsc następuje przy zakupie biletu. [Więcej informacji tu](/najwazniejsze#p-co-z-noclegami)
+- **Zakwaterowanie:** Ośrodek „SPORTOWA OSADA” oferuje komfortowe pokoje w widocznych na zdjęciach trzech budynkach oraz domki letniskowe typu "Brda" dla uczestników zjazdu. Rezerwacja miejsc następuje przy zakupie biletu. [Więcej informacji tu](/zakwaterowanie)
 - **Wyżywienie:** [Informacje o wyżywieniu tutaj](/najwazniejsze#p-jak-wygląda-kwestia-wyżywienia)
 - **Atrakcje:** [Opis atrakcji tutaj](/najwazniejsze#wykłady-prezentacje-i-aktywności)
 

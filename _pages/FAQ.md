@@ -30,11 +30,11 @@ toc: true
 
 
 ### P: Czy KAŻDY musi mieć wykupiony bilet na Zjazd?
-**O:** TAK - na teren Zjazdu będą mogły wejść TYLKO osoby z kupionym biletem wejściowym, który można kupić w naszym sklepie: <https://sklep.zjazdtechniczny.pl>. Ze względów bezpieczeństwa, każdy uczestnik z wykupionym biletem będzie miał przygotowany identyfikator, który powinien nosić w widocznym miejscu. Ze wszelkich opłat, w tym związanych z noclegiem oczywiście są zwolnieni prowadzący prezentacje i warsztaty.
+**O:** TAK - na teren Zjazdu będą mogły wejść TYLKO osoby z kupionym biletem wejściowym, który można kupić w naszym sklepie: [<https://tickets.hackerspace-krk.pl/burzenin2025>](https://tickets.hackerspace-krk.pl/burzenin2025). Ze względów bezpieczeństwa, każdy uczestnik z wykupionym biletem będzie miał przygotowany identyfikator, który powinien nosić w widocznym miejscu. Ze wszelkich opłat, w tym związanych z noclegiem oczywiście są zwolnieni prowadzący prezentacje i warsztaty.
 
 
 ### P: Czy będzie możliwość wykupienia biletu wejściowego na miejscu za gotówkę?
-**O:** Nie - nie dysponujemy kasą fiskalną, wszystkie bilety / wejściówki muszą być kupione przez nasz sklep internetowy: <sklep.zjazdtechniczny.pl>. Można to zrobić oczywiście już w momencie przyjazdu, jednak **NIE PRZYJMUJEMY GOTÓWKI**. 
+**O:** Nie - nie dysponujemy kasą fiskalną, wszystkie bilety / wejściówki muszą być kupione przez nasz sklep internetowy: [<https://tickets.hackerspace-krk.pl/burzenin2025>](https://tickets.hackerspace-krk.pl/burzenin2025). Można to zrobić oczywiście już w momencie przyjazdu, jednak **NIE PRZYJMUJEMY GOTÓWKI**. 
 *(Mała podpowiedź, kolega z klubu, albo kolega przed którym stoisz w kolejce może przyjąć gotówkę i kupić Ci bilet przez internet)*
 
 
@@ -45,7 +45,7 @@ toc: true
 
 
 ### P: Jeśli wybieram się tylko w sobotę, bez noclegu i wyżywienia, też muszę się zarejestrować i wykupić bilet?
-**O:** Tak, ten najtańszy za 30zł. Kupisz go tak, jak każdy inny bilet na Zjazd - **online** na stronie zjazdu <sklep.zjazdtechniczny.pl>.
+**O:** Tak, ten najtańszy za 30zł. Kupisz go tak, jak każdy inny bilet na Zjazd - **online** na stronie z biletami [<https://tickets.hackerspace-krk.pl/burzenin2025>](https://tickets.hackerspace-krk.pl/burzenin2025).
 
 
 ### P: Czy musze mieć wydrukowany bilet?
@@ -70,6 +70,8 @@ toc: true
 ### P: Co z noclegami?
 **O:** Noclegi są w pokojach 3 i 5 osobowych z łazienkami. Można sobie wykupić miejsce (i wtedy jest przydzielane losowo), można też dogadać się z kolegami i wykupić cały pokój. Wtedy wiadomo kto ci chrapie do ucha. Szkoły są dwie – jedni wolą ze swoimi, inni wolą poznawać nowych kolegów i nowe koleżanki. Bazując na doświadczeniu sugerujemy, żeby małżeństwa i pary spały w tym samym pokoju. **UWAGA**, Należy wziąć własny ręcznik. Tym, którzy czytali Douglasa Adamsa nie trzeba chyba tego powtarzać ;)
 
+Więcej informacji [<< TUTAJ >>](/zakwaterowanie)
+
 
 ### P: No dobra a jak mam namiot albo kampera?
 **O:** Niestety na terenie ośrodka nie można rozbijać namiotów. Nie można też wjeżdżać kamperami. Dla kamperów przewidziane są miejsca parkingowe w okolicy bramy do ośrodka.
@@ -89,6 +91,7 @@ W uzasadnionych przypadkach, np. osób z niepełnosprawnością prosimy o wcześ
 **O:** W programie przewidziane są śniadania i obiadokolacje. Na terenie ośrodka znajduje się też kawiarenka w której można kupić napoje, ciastka, frytki, zapiekanki itp.
 Wieczorem odbywa się grill party pod wiatą. Organizatorzy zapewniają grilla, węgiel, tacki, jednorazowe sztućce, musztardę, ketchup, ale wsad podstawowy trzeba sobie zorganizować samemu.
 
+Istnieje możliwość dokupienia do biletu modyfikatora posiłku - zmianę posiłków na wegetariańskie i zmianę posiłku na bezglutenowe.
 
 ### P: Czy można przyjechać z psem, kotem lub złotą rybką w małym akwarium.
 **O:** Niestety, z tego zestawu dopuszczalna jest wyłącznie złota rybka (akwarium musi być naprawdę małe). Ośrodek nie wyraża zgody na pobyt ze zwierzętami.
