@@ -29,9 +29,16 @@
               {{ f.excerpt | markdownify }}
             </div>
           {% endif %}
+          {% if f.tabs %}
+          <div class="btn-group btn-group-sm" role="group" aria-label="{{ f.title | default 'btngrp''}}">
+            {% for tab in f.tabs %}
+              <a href="{{ tab.url | relative_url }}" class="btn {{ tab.btn_class | default: 'btn--primary' }} btn--small">{{ tab.label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
+            {% endfor %}
+          </div>
+          {% endif %}
 
           {% if f.url %}
-            <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+            <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class | default: 'btn--primary' }} btn--small">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}
         </div>
       </div>
