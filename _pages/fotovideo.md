@@ -5,6 +5,13 @@ title: "Wasze zdjęcia i nagrania"
 header:
   overlay_image: /assets/images/wiata.jpg
   overlay_filter: 0.5
+  actions:
+  - label: "<i class='fas fa-film'></i> Wszystkie wystąpienia"
+    url: "/talks"
+  - label: "<i class='fas fa-history'></i> Wystawy"
+    url: "/puk/wystawy"
+  - label: "<i class='fas fa-camera'></i> Zdjęcia i Nagrania"
+    url: "/media"
 gallery1:
   - url: /assets/images/pawilony.jpg
     image_path: /assets/images/thumbs/pawilony.jpg

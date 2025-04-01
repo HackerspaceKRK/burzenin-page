@@ -9,16 +9,12 @@ header:
   overlay_image: /assets/images/wystawa-radjoamator.jpg
   overlay_filter: 0.5
   actions:
-    - label: "<i class='fas fa-download'></i> PUK"
-      url: "/puk"
-    - label: "<i class='fas fa-wrench'></i> Regulamin PUK"
-      url: "/puk/regulamin"
-    - label: "<i class='fas fa-wrench'></i> Konstruktorzy"
-      url: "/puk/constructors"
-    - label: "<i class='fas fa-wrench'></i> Projekty"
-      url: "/puk/projekty"
-    - label: "<i class='fas fa-wrench'></i> Wystawy radioamatorskie"
-      url: "/puk/wystawy"
+  - label: "<i class='fas fa-lightbulb'></i> Warsztaty QRP"
+    url: "/warsztaty_qrp"
+  - label: "<i class='fas fa-film'></i> Foto & Video"
+    url: "/media"
+  - label: "<i class='fas fa-trophy'></i> PUK – Konkurs"
+    url: "/puk/"
 gallery1:
   - url: /assets/images/wystawa-radjoamator.jpg
     image_path: /assets/images/wystawa-radjoamator.jpg

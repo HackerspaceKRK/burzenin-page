@@ -20,21 +20,23 @@
         {% endif %}
 
         <div class="archive__item-body">
-          {% if f.title %}
-            <h2 class="archive__item-title">{{ f.title }}</h2>
-          {% endif %}
 
-          {% if f.excerpt %}
-            <div class="archive__item-excerpt">
-              {{ f.excerpt | markdownify }}
-            </div>
-          {% endif %}
           {% if f.tabs %}
           <div class="btn-group btn-group-sm" role="group" aria-label="{{ f.title | default 'btngrp''}}">
             {% for tab in f.tabs %}
               <a href="{{ tab.url | relative_url }}" class="btn {{ tab.btn_class | default: 'btn--primary' }} btn--small">{{ tab.label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
             {% endfor %}
           </div>
+          {% endif %}
+          
+          {% if f.title %}
+            <h2 class="archive__item-title">{{ f.title }}</h2>
+          {% endif %}
+          
+          {% if f.excerpt %}
+            <div class="archive__item-excerpt">
+              {{ f.excerpt | markdownify }}
+            </div>
           {% endif %}
 
           {% if f.url %}

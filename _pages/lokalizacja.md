@@ -10,10 +10,12 @@ header:
   overlay_image: /assets/images/wiata.jpg
   overlay_filter: 0.5
   actions:
-    - label: "<i class='fas fa-home'></i> O miejscu"
-      url: "/venue"
-    - label: "<i class='fas fa-bed'></i> Zakwaterowanie"
-      url: "/zakwaterowanie"
+  - label: "<i class='fas fa-bed'></i> Zakwaterowanie"
+    url: "/zakwaterowanie"
+  - label: "<i class='fas fa-map'></i> Mapa i Dojazd"
+    url: "/venue"
+  - label: "<i class='fas fa-question-circle'></i> FAQ"
+    url: "/najwazniejsze"
 gallery1:
   - url: /assets/images/pawilony.jpg
     image_path: /assets/images/thumbs/pawilony.jpg

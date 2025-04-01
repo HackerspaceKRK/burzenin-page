@@ -7,10 +7,12 @@ header:
   overlay_image: /assets/images/pawilon.jpg
   overlay_filter: 0.5
   actions:
-    - label: "<i class='fas fa-home'></i> O miejscu"
-      url: "/venue"
-    - label: "<i class='fas fa-bed'></i> Zakwaterowanie"
-      url: "/zakwaterowanie"
+  - label: "<i class='fas fa-map-marked-alt'></i> Lokalizacja"
+    url: "/venue"
+  - label: "<i class='fas fa-question-circle'></i> FAQ"
+    url: "/najwazniejsze"
+  - label: "<i class='fas fa-envelope'></i> Kontakt"
+    url: "/kontakt"
 gallery1:
   - url: /assets/images/brda2.jpg
     image_path: /assets/images/thumbs/brda2.jpg

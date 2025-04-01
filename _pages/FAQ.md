@@ -5,6 +5,18 @@ author: ekipa
 classes: wide
 author_profile: true
 toc: true
+header:
+  overlay_image: /assets/images/burzenin_people.jpg
+  overlay_filter: 0.5
+  actions:
+  - label: "<i class='fas fa-envelope'></i> Kontakt"
+    url: "/kontakt"
+  - label: "<i class='fas fa-calendar-alt'></i> Program"
+    url: "/program/"
+  - label: "<i class='fas fa-bed'></i> Zakwaterowanie"
+    url: "/zakwaterowanie"
+  - label: "<i class='fas fa-map-marked-alt'></i> Lokalizacja"
+    url: "/venue"
 ---
 
 # Ważne pytania i jeszcze ważniejsze odpowiedzi
