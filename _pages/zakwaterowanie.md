@@ -25,9 +25,18 @@ gallery2:
     image_path: /assets/images/thumbs/brda1.jpg
   - url: /assets/images/brda3.jpg
     image_path: /assets/images/thumbs/brda3.jpg
+gallery4:
+  - url: /assets/images/lux1.jpg
+    image_path: /assets/images/thumbs/lux1.jpg
+  - url: /assets/images/lux2.jpg
+    image_path: /assets/images/thumbs/lux2.jpg
+  - url: /assets/images/lux3.jpg
+    image_path: /assets/images/thumbs/lux3.jpg
+  - url: /assets/images/lux4.jpg
+    image_path: /assets/images/thumbs/lux4.jpg
 gallery3:
   - url: /assets/images/pawilon.jpg 
-    image_path: /assets/images/thumbs/pawilon.jpg
+    image_path: /assets/images/pawilon.jpg
     alt: "Jeden z trzech pawilonów, w których kwaterujemy"
     title: "Jeden z trzech pawilonów, w których kwaterujemy"
 ---
@@ -42,7 +51,15 @@ Pawilony składają się z pokoi 3-osobowych i 6-osobowych na dwóch piętrach, 
 
 W skład każdego z biletów wchodzi odpowiednia liczba wejściówek, wyżywienia, odpowiedni pokój, liczba pościeli i dopłata do odpowiedniej liczby pustych łóżek.
 
-{% include pretix-widget.html categories="42,34,36" stilltesting="yes" %}
+{% include pretix-widget.html categories="42,34,36" %}
+
+### Nocleg w domkach typu Lux
+
+{% include gallery id="gallery4" %}
+
+To idealne rozwiązanie dla 4-6 osób, które cenią sobie komfort, funkcjonalność i bliskość natury. To tez fajna opcja dla rodzin z dziećmi, którym zależy na większym spokoju. Koszt to 450zł za dobę.
+
+{% include pretix-widget.html categories="52" %}
 
 ### Nocleg w domkach typu Brda
 
@@ -57,7 +74,7 @@ Jak wygląda domek typu Brda wie praktycznie każdy, kto był na wakacjach w jak
 
 Domki typu "Brda" wyposażone w węzły sanitarne WC i umywalkę. Prysznic jest wspólny dla wszystkich domków.
 
-{% include pretix-widget.html categories="44" stilltesting="yes" %}
+{% include pretix-widget.html categories="44" %}
 
 <style>.pretix-widget-item-description {
     display: none;

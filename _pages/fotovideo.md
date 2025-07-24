@@ -53,6 +53,10 @@ gallery2:
     src="https://www.youtube.com/embed/196XHEKmZJs"
     frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen>
   </iframe>
+  <iframe
+    src="https://www.youtube.com/watch?v=qFnvlEiYI5s"
+    frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen>
+  </iframe>
 </figure>
 
 {% include gallery id="gallery1" %}
