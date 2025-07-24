@@ -30,7 +30,6 @@ gallery4:
     image_path: /assets/images/thumbs/lux1.jpg
   - url: /assets/images/lux4.jpg
     image_path: /assets/images/thumbs/lux4.jpg
-gallery5:
   - url: /assets/images/lux2.jpg
     image_path: /assets/images/thumbs/lux2.jpg
   - url: /assets/images/lux3.jpg
@@ -60,8 +59,6 @@ W skład każdego z biletów wchodzi odpowiednia liczba wejściówek, wyżywieni
 
 To idealne rozwiązanie dla 4-6 osób, które cenią sobie komfort, funkcjonalność i bliskość natury. To tez fajna opcja dla rodzin z dziećmi, którym zależy na większym spokoju. Koszt to 450zł za dobę.
 
-{% include gallery id="gallery5" %}
-
 {% include pretix-widget.html categories="52" %}
 
 ### Nocleg w domkach typu Brda
@@ -84,6 +81,7 @@ Domki typu "Brda" wyposażone w węzły sanitarne WC i umywalkę. Prysznic jest 
 }
 figure img {
   max-height: 500px;
+  object-fit: cover;
  }
 
 </style>
