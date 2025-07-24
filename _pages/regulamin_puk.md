@@ -34,13 +34,13 @@ E - oprogramowanie
 
 7. Razem  ze zgłoszeniem  należy obowiązkowo  dostarczyć  streszczenie dokumentacji urządzenia (co najmniej: opis, schemat, fotografie).
 
-8. Termin składania zgłoszeń: do 1 września 2024.
+8. Termin składania zgłoszeń: do 1 września 2025.
 
 9. Urządzenia zgłaszane w kategoriach A, B, C, E muszą zawierać oryginalne rozwiązania projektowe zgłaszającego.
 
 10. Kod źródłowy w pracach zgłaszanych w kategorii E, musi być własnością intelektualną zgłaszającego.
 
-11. Pełną dokumentację w wersji elektronicznej należy dostarczyć w terminie do 1 września 2024, natomiast prace konkursowe - przed oficjalnym otwarciem Zjazdu Technicznego Krótkofalowców SP.
+11. Pełną dokumentację w wersji elektronicznej należy dostarczyć w terminie do 1 września 2025, natomiast prace konkursowe - przed oficjalnym otwarciem Zjazdu Technicznego Krótkofalowców SP.
 
 12. Oceny i wyboru najlepszych prac dokona Komisja powołana przez organizatorów Konkursu.Członkowie Komisji nie mogą być uczestnikami Konkursu.
 
@@ -62,7 +62,7 @@ E - oprogramowanie
 
 17. Wszyscy uczestnicy konkursu otrzymują dyplomy i upominki. Projekty, które zajęły czołowe miejsca również nagrody w miarę możliwości organizatora.
 
-18. Dodatkową nagrodę będzie można uzyskać od "publiczności" Zjazdu, gdzie każdy uczestnijk zjazdu będzie dysponowal jedną karta do głosowania na której będzie musial zagłosować na jeden z projektów.
+18. Dodatkową nagrodę będzie można uzyskać od "publiczności" Zjazdu, gdzie każdy uczestnijk zjazdu będzie dysponowal jedną karta do głosowania na której będzie mógł zagłosować na jeden z projektów.
 
 19. W każdej kategorii zostanie przyznana osobna nagroda w podkategorii ROOKIE, przyznawana dla uczestnika poniżej 18 roku życia. 
 
