@@ -6,13 +6,6 @@ toc: true
 header:
   overlay_image: /assets/images/oscylograf-1.jpg
   overlay_filter: 0.5
-  actions:
-  - label: "<i class='fas fa-map-marked-alt'></i> Lokalizacja"
-    url: "/venue"
-  - label: "<i class='fas fa-question-circle'></i> FAQ"
-    url: "/najwazniejsze"
-  - label: "<i class='fas fa-envelope'></i> Kontakt"
-    url: "/kontakt"
 ---
 
 Podczas warsztatów zbudujemy i uruchomimy przełącznik czterech anten wraz ze sterownikiem według projektu Pawła SP2FP.
