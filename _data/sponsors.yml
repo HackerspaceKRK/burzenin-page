@@ -26,7 +26,7 @@ helion:
   name: "Helion"
   banner: assets/images/sponsors/helion.png
   url: https://helion.pl/
-ot04:
-  name: "Oddział Terenowy nr 04 Polskiego Związku Krótkofalowców"
-  banner: assets/images/sponsors/ot04.jpg
-  url: https://ot04.pzk.org.pl/
+# ot04:
+#   name: "Oddział Terenowy nr 04 Polskiego Związku Krótkofalowców"
+#   banner: assets/images/sponsors/ot04.jpg
+#   url: https://ot04.pzk.org.pl/
