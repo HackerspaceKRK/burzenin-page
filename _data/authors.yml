@@ -1273,3 +1273,13 @@ so6xl:
   authorpage: "/authors/so6xl"
   avatar          : "/assets/images/people/so6xl.jpg"
 ## end SO6XL
+
+## begin SP4UBW
+sp4ubw:
+  name              : Darek
+  callsign          : SP4UBW
+  constructor       : yes
+  speaker           : no
+  authorpage        : "/authors/sp4ubw"
+
+## end SP4UBW
