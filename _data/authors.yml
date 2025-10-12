@@ -1283,3 +1283,33 @@ sp4ubw:
   authorpage        : "/authors/sp4ubw"
 
 ## end SP4UBW
+
+## begin SP3VSS
+sp3vss:
+  name              : Artur
+  callsign          : SP3VSS
+  constructor       : yes
+  speaker           : yes
+  authorpage        : "/authors/sp3vss"
+
+## end SP3VSS
+
+## begin SQ9NJE
+sq9nje:
+  name              : Przemek
+  callsign          : SQ9NJE
+  constructor       : yes
+  speaker           : no
+  authorpage        : "/authors/sq9nje"
+
+## end SQ9NJE
+
+## begin SP5ICX
+sp5icx:
+  name              : Grzegorz
+  callsign          : SP5ICX
+  constructor       : yes
+  speaker       : no
+  authorpage        : "/authors/sp5icx"
+
+## end SP5ICX

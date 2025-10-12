@@ -9,9 +9,9 @@ layout: puk
 proofread: no
 classes: wide
 header:
-  overlay_image: /assets/images/puk/
+  overlay_image: /assets/images/puk/SP3VSS_pihpsdr_0.png
   overlay_filter: 0.5
-  teaser: /assets/images/puk/
+  teaser: /assets/images/puk/SP3VSS_pihpsdr_0.png
 ---
 
 Kontroler piHPSDR jest kontrolerem zdalnym do transceivera Hermes Lite 2 i innych urządzeń.. Normalnie używam go po połączeniu z komputerem przy pomocy programu SDR Console. Ten duży komputer ma wystarczającą moc, aby obsługiwać oprogramowanie w trybie cyfrowym, rejestratory i wykorzystywać wszystkie niesamowite możliwości naszych radiotelefonów. Ale platforma piHPSDR ma wystarczającą moc, aby łatwo wyobrazić sobie siedzenie w moim ulubionym fotelu, mały kontroler oparty o stolik, nogi w górze, napoje i przekąski pod ręką, może mecz futbolu na dużym ekranie i możliwość swobodnego zajmowania się DX-em lub przeżuwaniem szmat. Tak czy inaczej, taka jest moja wizja i trzymam się jej, jak widać.  Koszty materiałów oscylują w okolicach 500 złotych z wbudowanym dźwiękiem, co jest dalekie od 1200 dolarów za Maestro.
@@ -28,3 +28,14 @@ Lista materiałów:
 - 16 przycisków podłączonych do MCP23017
 
 Cała konstrukcja jest stworzona przy uzyciu ogólno dostępnych materiałów. Front panel wycięty z Dibond’u, boki obudowy, nówki, gałki, przyciski i ramki drukowane drukarką 3d z materiału PET-G. Zaprojektowane w programie Fusion360.
+
+[Dokumentacja konkursowa](/assets/bin/SP3VSS_pihpsdr.docx)
+
+<style>.pretix-widget-item-description {
+    display: none;
+}
+figure img {
+  max-height: 500px;
+  object-fit: cover;
+ }
+</style>

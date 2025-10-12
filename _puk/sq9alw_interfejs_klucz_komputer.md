@@ -9,7 +9,7 @@ layout: puk
 proofread: no
 classes: wide
 header:
-  overlay_image: /assets/images/puk/
+  overlay_image: /assets/images/dummy.jpg
   overlay_filter: 0.5
-  teaser: /assets/images/puk/
+  teaser: /assets/images/dummy.jpg
 ---

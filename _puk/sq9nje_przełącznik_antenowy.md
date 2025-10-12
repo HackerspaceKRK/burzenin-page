@@ -105,5 +105,4 @@ figure img {
   max-height: 500px;
   object-fit: cover;
  }
-
 </style>
