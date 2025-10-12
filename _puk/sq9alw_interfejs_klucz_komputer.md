@@ -9,7 +9,7 @@ layout: puk
 proofread: no
 classes: wide
 header:
-  overlay_image: /assets/images/dummy.jpg
+  overlay_image: /assets/images/puk/SQ9ALW_interfejs_do_manipulatora.jpg
   overlay_filter: 0.5
-  teaser: /assets/images/dummy.jpg
+  teaser: /assets/images/puk/SQ9ALW_interfejs_do_manipulatora.jpg
 ---
