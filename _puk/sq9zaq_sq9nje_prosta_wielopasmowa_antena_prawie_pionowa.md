@@ -26,7 +26,7 @@ Antena powstała z potrzeby zbudowania prostej, wielopasmowej anteny z niskimi k
 promieniowania jako uzupełnienie wielopasmowej poziomej delty.
 
 Założenia projektu:
-1. Praca na pasmach 160-40 m.
+1. Praca na pasmach 160-15 m.
 2. Konstrukcja możliwa do postawienia w jedną osobę.
 3. Łatwe strojenie.
 4. Możliwość zapakowania do samochodu osobowego.
