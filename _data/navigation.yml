@@ -6,8 +6,8 @@ main:
     url: /program
   - title: "Lokalizacja"
     url: /venue
-  - title: "Rejestracja"
-    url: https://tickets.hackerspace-krk.pl/burzenin2025
+  #- title: "Rejestracja"
+  #  url: https://tickets.hackerspace-krk.pl/burzenin2025
   - title: "Kontakt"
     url: /kontakt
   - title: "Ekipa"
