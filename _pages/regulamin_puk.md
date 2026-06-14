@@ -48,13 +48,11 @@ E - oprogramowanie
 - oryginalności opracowania, poprawności i elegancji rozwiązań konstrukcyjnych
 - kompletności i jakości dokumentacji oraz otwartości kodu
 - bezpieczeństwa zastosowanych rozwiązań
-- prezentacji projektu
-
+  
 14. Prace w kategorii D będą oceniane wg następujących kryteriów:
 - poprawności montażu i uruchomienia
 - estetyki wykonania 
 - stopnia skomplikowania
-- prezentacji projektu
 
 15. W przypadku każdego z kryteriów projekty zostaną ocenione przez komisję od najgorszego do najlepszego i kolejno zostaną przyznane punkty od 1 do N, gdzie N jest liczbą zgłoszonych projektów.
 
