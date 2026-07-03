@@ -23,6 +23,7 @@ sq9wtf:
   orga_years      :
     - 2023
     - 2024
+    - 2025
 
 sp6mar:
   name            : "Martyna"
@@ -36,6 +37,7 @@ sp6mar:
   orga_years      :
     - 2022
     - 2024
+    - 2025
 
 sq9zaq:
   name            : "canis_lupus"
@@ -51,6 +53,7 @@ sq9zaq:
   orga_years      :
     - 2023
     - 2024
+    - 2025
 
 sp3htf:
   name            : "Rafał"
@@ -63,6 +66,7 @@ sp3htf:
   speaker         : no
   orga_years      :
     - 2024
+    - 2025
 
 sp3nyr:
   name            : "Waldemar"
@@ -75,6 +79,7 @@ sp3nyr:
   authorpage      :  "/authors/sp3nyr"
   orga_years      :
     - 2024
+    - 2025
 
 sp7ukl:
   name            : "Cezary Libert"
@@ -85,7 +90,9 @@ sp7ukl:
   speaker         : no
   authorpage      :  "/authors/sp7ukl"
   orga_years      :
+    - 2023
     - 2024
+    - 2025
 
 sq7iqa:
   name            : "Krzysiek"
@@ -113,6 +120,7 @@ sq7iqa:
     - 2022
     - 2023
     - 2024
+    - 2025
 
 sp9mrn:
   name            : "Maciek Bal"
