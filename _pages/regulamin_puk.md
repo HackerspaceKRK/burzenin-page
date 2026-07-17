@@ -41,13 +41,13 @@ E - oprogramowanie -->
 
 7. Razem ze zgłoszeniem należy obowiązkowo dostarczyć streszczenie dokumentacji pracy (co najmniej: opis, schemat, fotografie).
 
-8. **Termin składania zgłoszeń: do 28 sierpnia 2026 23:59.**
+8. **Termin składania zgłoszeń: do 4 września 2026 23:59.**
 
 9. Urządzenia zgłaszane w kategoriach A, B, D muszą zawierać oryginalne rozwiązania projektowe zgłaszającego.
 
 10. Kod źródłowy w pracach zgłaszanych w kategorii D musi być własnością intelektualną zgłaszającego.
 
-11. Pełną dokumentację w wersji elektronicznej należy dostarczyć w terminie do 28 sierpnia 2026, natomiast prace konkursowe - przed oficjalnym otwarciem Zjazdu Technicznego Krótkofalowców SP.
+11. Pełną dokumentację w wersji elektronicznej należy dostarczyć w terminie do 4 września 2026, natomiast prace konkursowe - przed oficjalnym otwarciem Zjazdu Technicznego Krótkofalowców SP.
 
 12. Oceny i wyboru najlepszych prac dokona Komisja powołana przez organizatorów Konkursu. Członkowie Komisji nie mogą być uczestnikami Konkursu.
 
