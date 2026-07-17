@@ -52,7 +52,7 @@ E - oprogramowanie -->
 12. Oceny i wyboru najlepszych prac dokona Komisja powołana przez organizatorów Konkursu. Członkowie Komisji nie mogą być uczestnikami Konkursu.
 
 13. Prace w kategoriach A, B, D będą oceniane wg następujących kryteriów:
-- oryginalności opracowania
+- oryginalności opracowania,
 - poprawności, bezpieczeństwa i elegancji rozwiązań konstrukcyjnych,
 - kompletności i jakości dokumentacji oraz otwartości kodu.
 
