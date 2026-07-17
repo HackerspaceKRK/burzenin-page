@@ -3,11 +3,10 @@ version: "3"
 services:
   jekyll:
     build: .
-    restart: until-stopped
+    restart: unless-stopped
     command: jekyll serve --trace --livereload  --force_polling --host 0.0.0.0
     volumes:
       - .:/app
     ports:
       - "4000:4000"
       - "35729:35729"
-    restart: "no"
