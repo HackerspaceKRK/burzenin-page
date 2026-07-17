@@ -34,7 +34,7 @@ E - oprogramowanie
 
 7. Razem  ze zgłoszeniem  należy obowiązkowo  dostarczyć  streszczenie dokumentacji urządzenia (co najmniej: opis, schemat, fotografie).
 
-8. Termin składania zgłoszeń: do 1 września 2025.
+8. Termin składania zgłoszeń: do 4 września 2026.
 
 9. Urządzenia zgłaszane w kategoriach A, B, C, E muszą zawierać oryginalne rozwiązania projektowe zgłaszającego.
 
