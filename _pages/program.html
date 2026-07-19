@@ -171,7 +171,7 @@ Poniższy program znajdziecie również pod adresem <a href="https://program.zja
 {% assign talks_by_date = sorted_talks | group_by_exp: "talk", "talk.starttime | date: '%Y-%m-%d'" %}
 {% assign current_year = site.current_year %}
 
-{% include pretalx-widget.html %}
+<!-- {% include pretalx-widget.html %}-->
 
 {% for date in talks_by_date %}
 {% if date.name contains current_year %}
