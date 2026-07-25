@@ -52,7 +52,7 @@ Pawilony składają się z pokoi 3-osobowych i 6-osobowych na dwóch piętrach, 
 
 W skład każdego z biletów wchodzi odpowiednia liczba wejściówek, wyżywienia, odpowiedni pokój, liczba pościeli i dopłata do odpowiedniej liczby pustych łóżek.
 
-{% include pretix-widget.html categories="42,34,36" %}
+{% include pretix-widget.html categories="68,71,72" %}
 
 ### Nocleg w domkach typu Lux
 
@@ -62,7 +62,7 @@ To idealne rozwiązanie dla 4-6 osób, które cenią sobie komfort, funkcjonalno
 
 {% include gallery id="gallery5" %}
 
-{% include pretix-widget.html categories="52" %}
+{% include pretix-widget.html categories="70" %}
 
 ### Nocleg w domkach typu Brda
 
@@ -77,7 +77,7 @@ Jak wygląda domek typu Brda wie praktycznie każdy, kto był na wakacjach w jak
 
 Domki typu "Brda" wyposażone w węzły sanitarne WC i umywalkę. Prysznic jest wspólny dla wszystkich domków.
 
-{% include pretix-widget.html categories="44" %}
+{% include pretix-widget.html categories="69" %}
 
 <style>.pretix-widget-item-description {
     display: none;
