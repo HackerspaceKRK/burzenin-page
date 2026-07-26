@@ -7,7 +7,7 @@ main:
   - title: "Lokalizacja"
     url: /venue
   #- title: "Rejestracja"
-  #  url: https://tickets.hackerspace-krk.pl/burzenin{{ site.year }}
+  #  url: https://tickets.hackerspace-krk.pl/burzenin2026
   - title: "Kontakt"
     url: /kontakt
   - title: "Ekipa"
