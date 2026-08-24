@@ -8,7 +8,8 @@ header:
   overlay_filter: 0.5
 ---
 
-Podczas warsztatów zbudujemy i uruchomimy przełącznik czterech anten wraz ze sterownikiem według projektu Pawła SP2FP.
+Konstrukcja małego nadajnika radiowego do łowów na lisa z wykorzysytaniem gotowego mofułu HC-12. Wgrywanie firmwaru, ewentualnie kompilacja źródeł. 
+Ogarniają: SP3WAM oraz SP3PAQ.
 
 {% include pretix-widget.html categories="56" %}
 
