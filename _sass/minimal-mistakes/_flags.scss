@@ -1,0 +1,28 @@
+$flag-size: 1.1em;
+$flag-aspect-ratio: 4 / 3;
+
+[class^="flag-"],
+[class*=" flag-"] {
+  display: inline-block;
+  width: $flag-size;
+  height: calc(#{$flag-size} / #{$flag-aspect-ratio});
+  margin-right: 0.3em;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+
+  vertical-align: -0.15em;
+}
+
+/* Ukraine */
+.flag-ua {
+  background-image: url("https://flagicons.lipis.dev/flags/4x3/ua.svg");
+}
+
+/* United Kingdom */
+.flag-uk,
+.flag-en {
+  background-image: url("https://flagicons.lipis.dev/flags/4x3/gb.svg");
+}
+```

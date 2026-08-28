@@ -133,9 +133,11 @@ footer:
     - label: "Zgłoszenia PUK"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:puk@zjazdtechniczny.krotkofalowcy.com.pl"
-    - label: "🇬🇧 English version"
+    - label: "English version"
+      icon: "flag-en"
       url: "https://zjazdtechniczny-pl.translate.goog/?_x_tr_sl=pl&_x_tr_tl=en&_x_tr_hl=en"
-    - label: "🇺🇦 українська версія"
+    - label: "українська версія"
+      icon: "flag-ua"
       url: "https://zjazdtechniczny-pl.translate.goog/?_x_tr_sl=pl&_x_tr_tl=uk&_x_tr_hl=uk"
 
 breadcrumbs_override:
