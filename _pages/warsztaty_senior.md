@@ -11,7 +11,7 @@ header:
 Konstrukcja małego nadajnika radiowego do łowów na lisa z wykorzysytaniem gotowego mofułu HC-12. Wgrywanie firmwaru, ewentualnie kompilacja źródeł. 
 Ogarniają: SP3WAM oraz SP3PAQ.
 
-{% include pretix-widget.html categories="56" %}
+{% include pretix-widget.html categories="57" %}
 
 <style>
 figure img {
