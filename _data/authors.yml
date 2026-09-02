@@ -24,6 +24,7 @@ sq9wtf:
     - 2023
     - 2024
     - 2025
+    - 2026
 
 sp6mar:
   name            : "Martyna"
@@ -38,6 +39,17 @@ sp6mar:
     - 2022
     - 2024
     - 2025
+
+sq9agf:
+  name: Grzegorz
+  first_name: Grzegorz
+  callsign: SQ9AGF
+  constructor     : no
+  speaker         : no
+  authorpage: "/authors/sq9agf" 
+  orga_years      :
+    - 2026
+
 
 sq9zaq:
   name            : "canis_lupus"
@@ -54,6 +66,7 @@ sq9zaq:
     - 2023
     - 2024
     - 2025
+    - 2026
 
 sp3htf:
   name            : "Rafał"
@@ -67,6 +80,7 @@ sp3htf:
   orga_years      :
     - 2024
     - 2025
+    - 2026
 
 sp3nyr:
   name            : "Waldemar"
@@ -93,6 +107,7 @@ sp7ukl:
     - 2023
     - 2024
     - 2025
+    - 2026
 
 sq7iqa:
   name            : "Krzysiek"
@@ -121,6 +136,7 @@ sq7iqa:
     - 2023
     - 2024
     - 2025
+    - 2026
 
 sp9mrn:
   name            : "Maciek Bal"
@@ -134,6 +150,7 @@ sp9mrn:
   speaker         : no
   orga_years      :
     - 2024
+    - 2026
 
 sp2fp:
   name            : "Paweł"
@@ -430,6 +447,7 @@ sq9alw:
   orga_years      :
     - 2023
     - 2024
+    - 2026
 
 ## end SQ9ALW
 
@@ -712,8 +730,20 @@ sq7alx:
   constructor       : yes
   speaker           : no
   authorpage        :  "/authors/sq7alx"
+  orga_years      :
+    - 2026
 
 ## end SQ7ALX
+
+sq9ish:
+  name: Miłosz
+  callsign: SQ9ISH
+  constructor: yes
+  speaker: yes
+  authorpage: "/authors/sq9ish"
+  orga_years      :
+    - 2026
+
 
 ## begin SQ7OVZ
 sq7ovz:
@@ -901,6 +931,7 @@ sq9zbf:
     - 2022
     - 2023
     - 2024
+    - 2026
 
 ## end SQ9ZBF
 
@@ -1309,6 +1340,8 @@ sq9nje:
   constructor       : yes
   speaker           : no
   authorpage        : "/authors/sq9nje"
+  orga_years      :
+    - 2026
 
 ## end SQ9NJE
 
