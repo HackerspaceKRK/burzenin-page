@@ -77,18 +77,18 @@ Lista prelegentów prowadzących warsztaty lub wykłady w tym roku i poprzednich
 		{%assign tcount = talk_count | strip%}
 		<ul class="merits">
 			{% if f[1].orga_years contains site.current_year %}<li class="current_orga">Organizator tegorocznego Zjazdu.</li>{%endif%}
-			<!-- {% if f[1].qrp_years %}<li class="previous_orga"> Organizator {{ f[1].qrp_years.size }} edycji Warsztatów QRP.</li>{%endif%}
-			{% if f[1].orga_years %}<li class="previous_orga"> Organizator {{ f[1].orga_years.size }} edycji zjazdów.</li>{%endif%} -->
+			{% if f[1].qrp_years %}<li class="previous_orga"> Organizator {{ f[1].qrp_years.size }} edycji Warsztatów QRP.</li>{%endif%}
+			{% if f[1].orga_years %}<li class="previous_orga"> Organizator {{ f[1].orga_years.size }} edycji zjazdów.</li>{%endif%}
 			{% unless pcount == "0" %}<li class="puk_projects">Projektów w konkursie PUK: {{ project_count }}</li>{% endunless %}
 			{% unless tcount == "0" %}<li class="speaker_count">Wystąpień na Zjeździe jako prelegent: {{ talk_count }}</li>{% endunless %}
-			<li class="find_out_more"><a href="/authors/{{ f[0] }}" >Czytaj więcej</a></li> 
+			<li class="find_out_more"><a href="/authors/{{ f[0] }}" >Czytaj więcej</a></li>
 		</ul>
 		</div>
 		{% endif %}
 	{% endfor %}
 	</div>
-	
-  
+
+
 <h2>A także ci, którzy organizowali lub pomagali przy poprzednich edycjach</h2>
 <div class="participants-container">
 	{% for f in site.data.authors %}
