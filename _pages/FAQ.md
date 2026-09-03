@@ -42,11 +42,11 @@ header:
 
 
 ### P: Czy KAŻDY musi mieć wykupiony bilet na Zjazd?
-**O:** TAK - na teren Zjazdu będą mogły wejść TYLKO osoby z kupionym biletem wejściowym, który można kupić w naszym sklepie: [<https://tickets.hackerspace-krk.pl/burzenin{{ site.year }}>](https://tickets.hackerspace-krk.pl/burzenin{{ site.year }}). Ze względów bezpieczeństwa, każdy uczestnik z wykupionym biletem będzie miał przygotowany identyfikator, który powinien nosić w widocznym miejscu. Ze wszelkich opłat, w tym związanych z noclegiem oczywiście są zwolnieni prowadzący prezentacje i warsztaty.
+**O:** TAK - na teren Zjazdu będą mogły wejść TYLKO osoby z kupionym biletem wejściowym, który można kupić w naszym sklepie: [<https://tickets.hackerspace-krk.pl/burzenin{{ site.current_year }}>](https://tickets.hackerspace-krk.pl/burzenin{{ site.current_year }}). Ze względów bezpieczeństwa, każdy uczestnik z wykupionym biletem będzie miał przygotowany identyfikator, który powinien nosić w widocznym miejscu. Ze wszelkich opłat, w tym związanych z noclegiem oczywiście są zwolnieni prowadzący prezentacje i warsztaty.
 
 
 ### P: Czy będzie możliwość wykupienia biletu wejściowego na miejscu za gotówkę?
-**O:** Nie - nie dysponujemy kasą fiskalną, wszystkie bilety / wejściówki muszą być kupione przez nasz sklep internetowy: [<https://tickets.hackerspace-krk.pl/burzenin{{ site.year }}>](https://tickets.hackerspace-krk.pl/burzenin{{ site.year }}). Można to zrobić oczywiście już w momencie przyjazdu, jednak **NIE PRZYJMUJEMY GOTÓWKI**. 
+**O:** Nie - nie dysponujemy kasą fiskalną, wszystkie bilety / wejściówki muszą być kupione przez nasz sklep internetowy: [<https://tickets.hackerspace-krk.pl/burzenin{{ site.current_year }}>](https://tickets.hackerspace-krk.pl/burzenin{{ site.current_year }}). Można to zrobić oczywiście już w momencie przyjazdu, jednak **NIE PRZYJMUJEMY GOTÓWKI**. 
 *(Mała podpowiedź, kolega z klubu, albo kolega przed którym stoisz w kolejce może przyjąć gotówkę i kupić Ci bilet przez internet)*
 
 
@@ -57,7 +57,7 @@ header:
 
 
 ### P: Jeśli wybieram się tylko w sobotę, bez noclegu i wyżywienia, też muszę się zarejestrować i wykupić bilet?
-**O:** Tak, ten najtańszy za 35zł. Kupisz go tak, jak każdy inny bilet na Zjazd - **online** na stronie z biletami [<https://tickets.hackerspace-krk.pl/burzenin{{ site.year }}>](https://tickets.hackerspace-krk.pl/burzenin{{ site.year }}).
+**O:** Tak, ten najtańszy za 35zł. Kupisz go tak, jak każdy inny bilet na Zjazd - **online** na stronie z biletami [<https://tickets.hackerspace-krk.pl/burzenin{{ site.current_year }}>](https://tickets.hackerspace-krk.pl/burzenin{{ site.current_year }}).
 
 
 ### P: Czy musze mieć wydrukowany bilet?
