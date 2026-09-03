@@ -57,7 +57,7 @@ header:
 
 
 ### P: Jeśli wybieram się tylko w sobotę, bez noclegu i wyżywienia, też muszę się zarejestrować i wykupić bilet?
-**O:** Tak, ten najtańszy za 30zł. Kupisz go tak, jak każdy inny bilet na Zjazd - **online** na stronie z biletami [<https://tickets.hackerspace-krk.pl/burzenin{{ site.year }}>](https://tickets.hackerspace-krk.pl/burzenin{{ site.year }}).
+**O:** Tak, ten najtańszy za 35zł. Kupisz go tak, jak każdy inny bilet na Zjazd - **online** na stronie z biletami [<https://tickets.hackerspace-krk.pl/burzenin{{ site.year }}>](https://tickets.hackerspace-krk.pl/burzenin{{ site.year }}).
 
 
 ### P: Czy musze mieć wydrukowany bilet?
